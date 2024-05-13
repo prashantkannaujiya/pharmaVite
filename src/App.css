@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.App{
+  font-family: "Lato", sans-serif;
+  
+  font-style: normal;
+}
+
+.footer-detail{
+  
+  font-size: 3vh;
+  color:white;
+  text-align: center;
+  
+}
+#footer-end{
+ background-image: linear-gradient(black,rgb(59, 59, 59));
+  width: 100%;
+
+  text-align: center;
+}
+.cartel{
+  width:75%;
+}
+.quantity span{
+position: relative;
+bottom: 10px;
+}
+@media only screen and (max-width:600px){
+  .cartel{
+    width:100%;
+  }
+}
