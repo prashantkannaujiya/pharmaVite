@@ -10,7 +10,7 @@ function SideBar()
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#categoryMenu"  aria-label="Toggle navigation">
       <i class="bi bi-list text-white"></i>
   </button>
-<div className='collapse navbar-collapse' id='categoryMenu'>
+<div className='collapse navbar-collapse' id='categoryMenu' style={{fontFamily:'Lato'}}>
     <ul className='nav navbar-nav flex-column'>
     <li className='nav-item' style={{backgroundImage:'linear-gradient(to right,black,white)',color:'whitesmoke'}}>Categories</li>
     <li  className='nav-item'><Link className='sidebar-menu'  to={'/category'} state='mineral'>Minerals</Link></li>

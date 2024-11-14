@@ -20,8 +20,8 @@ function Checkout() {
     alert(customer)
   }
   return (
-    <div className="productDisplay container text-center mb-5">
-      <h3 className="text-secondary fw-light mt-3 text-start mb-5" >
+    <div className="productDisplay container text-center mb-5" style={{fontFamily:'Lato'}}>
+      <h3 className="text-secondary  mt-3 text-start mb-5" style={{fontFamily:'Lato'}}>
         Preview your order and Pay
       </h3>
       <div className="d-md-flex mb-4">
@@ -31,7 +31,7 @@ function Checkout() {
         >
           <form id="form1">
             <div className="  text-start">
-              <h3 className=" fs-4 fw-light text-start">Your Contact</h3>
+              <h3 className=" fs-4  text-start">Your Contact</h3>
               <input
                 type="email"
                 placeholder="email"
@@ -45,7 +45,7 @@ function Checkout() {
               </label>
             </div>
 
-            <h3 className="fs-4 fw-light text-start ">Delivery</h3>
+            <h3 className="fs-4 text-start ">Delivery</h3>
             <div className="row  mb-1">
               <div className="col">
                 <input

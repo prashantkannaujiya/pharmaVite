@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import Header from './Header'
-import { Route, Routes } from 'react-router-dom'
+import { Route, Routes, useLocation } from 'react-router-dom'
 import Home from './Home'
 import Cart from './Cart'
 import Store from './Store'
@@ -17,12 +17,16 @@ export const userInfo=createContext()
 function App() {
  const [cart,setcart]=useState([]);
  const [user,setuser]=useState(null)
+ const location=useLocation();
  useEffect(()=>{
   let u=JSON.parse(window.localStorage.getItem('cartlist')) || [];
   console.log(u)
   setcart(u)
 
 },[])
+useEffect(()=>{
+  window.scrollTo(0,0)
+},[location])
   return (
     <>
     <div className='App' >

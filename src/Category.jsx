@@ -4,7 +4,7 @@ import data from "./productDatabase";
 import { userCart } from "./App";
 import HomeCard from "./HomeCard";
 import SideBar from "./SideBar";
-
+import './App.css'
 function Category()
 {
     const location=useLocation();
@@ -12,6 +12,7 @@ function Category()
 const [list,setlist]=useState([])
 const c=useContext(userCart);
 useEffect(()=>{
+
 let k=data.filter((a)=>{
     if(a.category==location.state)
         {return a}
@@ -27,7 +28,7 @@ function cartAdd( ev,k)
           ev.target.innerHTML='Go to Cart';
           c.cart=[...c.cart,k]; 
            
-          ev.target.className='btn btn-outline-secondary ';
+          ev.target.className='btn btn-outline-secondary flip';
       }
       else{
           navigate('/cart');
@@ -39,8 +40,8 @@ console.log(c.cart)
  
 }
     return(
-        <div className="container">
-            <div className="bg-light mt-2 mx-auto px-1 fs-5 " ><span className="text-uppercase">{location.state}</span> : Showing {list.length} products</div>
+        <div className="containe  mx-2" style={{fontFamily:'Lato'}}>
+            <div className="bg-dark text-light mt-3 mb-2 mx-auto px-1 fs-5 " ><span className="text-uppercase">{location.state}</span> : Showing {list.length} products</div>
           <div className=" d-md-flex">  
             <div className="w-25">
                 <SideBar></SideBar>

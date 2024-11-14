@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 .App{
-  font-family: "Lato", sans-serif;
+  font-family: sans-serif;
   
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 #footer-end{
  background-image: linear-gradient(black,rgb(59, 59, 59));
   width: 100%;
-
+font-family: Lato, sans-serif;
   text-align: center;
 }
 .cartel{
@@ -29,5 +29,31 @@ bottom: 10px;
 @media only screen and (max-width:600px){
   .cartel{
     width:100%;
+  }
+}
+.flip{
+  animation: flipp .4s linear;
+  
+  /* backface-visibility: hidden; Prevents mirroring */
+  /* transform-style: preserve-3d; Ensures 3D rotation looks correct */
+}
+/* @keyframes flipp {
+  from{
+    transform: rotateY(0deg);
+  }
+  to{
+    transform: rotateY(180deg);
+  }
+} */
+
+@keyframes flipp {
+  0% {
+    transform: rotateY(0deg); /* Initial state */
+  }
+  50% {
+    transform: rotateY(90deg); /* Mid-point rotation */
+  }
+  100% {
+    transform: rotateY(0deg); /* Reset back to initial */
   }
 }

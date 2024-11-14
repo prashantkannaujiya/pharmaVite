@@ -60,7 +60,7 @@ function Register()
             </div>
         </div>
         
-              <small className="text-secondary">By registering, you are agreeing with Pragya Hospital's terms and conditions.</small><br/>
+              <small className="text-secondary">By registering, you are agreeing with our terms and conditions.</small><br/>
                 <button className="btn btn-success mt-3" >Register</button>
       
       </form>

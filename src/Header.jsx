@@ -15,16 +15,16 @@ u.user ? '' : navigate('/login')
   return (
     <div className="head">
       <div className=" text-light" >
-        <nav className="navbar navbar-expand-md  " style={{height:'15vh'}}>
-          <div className="container-fluid justify-content-md-end text-light flex-fill">
+        <nav className="navbar navbar-expand-md  justify-content-startt" style={{height:'15vh'}}>
+          <div className="container-flui text-light ">
             <a
               className="navbar-brand fs-1 text-dark"
               href=""
               
               id="logo"
             >
-              <img src={logo}/>
-            <span className="fw-bold text-info"> PRAGYA HOSPITAL</span> 
+             
+            <span className="fw-bold text-light"> Just Meds</span> 
             </a>
           </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainHead"  aria-label="Toggle navigation">

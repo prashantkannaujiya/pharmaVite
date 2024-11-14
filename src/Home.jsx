@@ -66,23 +66,23 @@ function Home() {
       </div>
       <HomeCard></HomeCard>
 
-      <div className="covidBanner mx-auto border-light border">
+      <div className="covidBanner mx-auto border-light border" style={{fontFamily:'Lato'}}>
         <p className="fs-3  m-0 pt-5 ms-5">Stay Safe</p>
         <p className="fs-3  ms-5">Wear a Mask</p>
       </div>
-      <h3 className="text-center h4" style={{fontFamily:'vogue'}}>TOP SELLING PRODUCTS</h3>
-      <div className="h6 text-center" style={{fontFamily:'vogue'}}>100% AUTHENTIC PRODUCTS GUARANTEED</div>
-      <div className="row w-100 justify-content-center mb-5 mx-auto">
+      <h3 className="text-center fw-bold h4" style={{fontFamily:'Lato'}}>Top Selling Products</h3>
+      <div className="h6 text-center" style={{fontFamily:'Lato'}}>100% Authentic Products Guaranteed</div>
+      <div className="row w-100 justify-content-center mt-4 mb- mx-auto" style={{marginBottom:"20vh"}}>
         {data
           .filter((a, i) => {
-            if (i < 3) return a;
+            if (i < 5) return a;
           })
           .map((a, i) => {
             return (
-              <div className="col-lg-3 m-1">
+              <div className="col-lg-2 m-1 mx-3" style={{fontFamily:'Lato,sans-serif'}}>
                 <Link style={{ textDecoration: "none" }}>
-                  <div className="card w-100 border-0 shadow">
-                    <div className="card-header text-center border-0 w-100">
+                  <div className="card w-100 border-0 shado">
+                    <div className="card-header text-center bg-white border-0 w-100">
                       <img className="image-fluid" style={{height:'25vh',width:'50%'}} src={data[i].IMAGE} />
                     </div>
                     <div className="card-body fs-5 text-center">

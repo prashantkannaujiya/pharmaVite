@@ -1,0 +1,2404 @@
+{
+  "Sheet1": [
+    {
+      "Name": "Avastin 400mg Injection",
+      "Composition": "Bevacizumab (400mg)",
+      "Uses": " Cancer of colon and rectum Non-small cell lung cancer Kidney cancer Brain tumor Ovarian cancer Cervical cancer",
+      "SideEffect": "Rectal bleeding Taste change Headache Nosebleeds Back pain Dry skin High blood pressure Protein in urine Inflammation of the nose",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/f5a26c491e4d48199ab116a69a969be3.jpg",
+      "Manufacturer": "Roche Products India Pvt Ltd"
+    },
+    {
+      "Name": "Augmentin 625 Duo Tablet",
+      "Composition": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/wy2y9bdipmh6rgkrj0zm.jpg",
+      "Manufacturer": "Glaxo SmithKline Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Azithral 500 Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kqkouvaqejbyk47dvjfu.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Ascoril LS Syrup",
+      "Composition": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/3205599cc49d4073ae66cbb0dbfded86.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Aciloc 150 Tablet",
+      "Composition": "Ranitidine (150mg)",
+      "Uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+      "SideEffect": "Headache Diarrhea Gastrointestinal disturbance",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/pn7apngctvrtweencwi1.jpg",
+      "Manufacturer": "Cadila Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Allegra 120mg Tablet",
+      "Composition": "Fexofenadine (120mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Allergic conditions",
+      "SideEffect": "Headache Drowsiness Dizziness Nausea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/fa7427131ec64163b5bbafb529df0736.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Avil 25 Tablet",
+      "Composition": "Pheniramine (25mg)",
+      "Uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+      "SideEffect": "Sedation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/mmsye6bf97tkcocat24j.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Aricep 5 Tablet",
+      "Composition": "Donepezil (5mg)",
+      "Uses": " Alzheimer's disease",
+      "SideEffect": "Common cold Urinary incontinence Rash Nausea Diarrhea Insomnia difficulty in sleeping Weight loss Accidental injury",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/d7ojjdaw2gsm5sie1glu.jpg",
+      "Manufacturer": "Eisai Pharmaceuticals India Pvt Ltd"
+    },
+    {
+      "Name": "Amoxyclav 625 Tablet",
+      "Composition": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/acaa6608e016456f9cafcca2156ad3de.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Atarax 25mg Tablet",
+      "Composition": "Hydroxyzine (25mg)",
+      "Uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+      "SideEffect": "Sedation Nausea Vomiting Upset stomach Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/v9py58kciridvbi7bqls.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Azee 500 Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jbpnjvst3ph0xnrq199o.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Anovate Cream",
+      "Composition": "Phenylephrine (0.10% w/w) + Beclometasone (0.025% w/w) + Lidocaine (2.50% w/w)",
+      "Uses": "Treatment of Piles",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/gnsem6ircqxmwmjkprkw.jpg",
+      "Manufacturer": "USV Ltd"
+    },
+    {
+      "Name": "Allegra-M Tablet",
+      "Composition": "Montelukast (10mg) + Fexofenadine (120mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergies",
+      "SideEffect": "Nausea Diarrhea Vomiting Skin rash Flu like symptoms Headache Drowsiness Dizziness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/eh4vt8l9fuo4nvx3qwif.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Ascoril D Plus Syrup Sugar Free",
+      "Composition": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Nausea Vomiting Loss of appetite Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/9fe5ed4f4fce4eaea6588d2ce60115ec.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Alex Syrup",
+      "Composition": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Nausea Vomiting Loss of appetite Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/mqdfwomjrjv3lvlq08ae.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Armotraz Tablet",
+      "Composition": "Anastrozole (1mg)",
+      "Uses": " Breast cancer",
+      "SideEffect": "Hot flashes Nausea Osteoporosis Skin rash Weakness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/sytnbc3dtkhxddk5smxs.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Augmentin Duo Oral Suspension",
+      "Composition": "Amoxycillin  (200mg) +  Clavulanic Acid (28.5mg)",
+      "Uses": "Treatment of Resistance Tuberculosis (TB)Treatment of Bacterial infections",
+      "SideEffect": "Abdominal pain Allergy Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hg4gkjmjrg9956tqtmoz.jpg",
+      "Manufacturer": "Glaxo SmithKline Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Albendazole 400mg Tablet",
+      "Composition": "Albendazole (400mg)",
+      "Uses": "Treatment of Parasitic infections",
+      "SideEffect": "Vomiting Dizziness Increased liver enzymes Nausea Loss of appetite",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/c3f704ec89504863915d4433a19d0014.jpg",
+      "Manufacturer": "Cadila Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Arkamin Tablet",
+      "Composition": "Clonidine (100mcg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)",
+      "SideEffect": "Dryness in mouth Fatigue Dizziness Headache Nausea Sleepiness Insomnia difficulty in sleeping",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kvdgswy8eyzkwmulwlyf.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Allegra 180mg Tablet",
+      "Composition": "Fexofenadine (180mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Allergic conditions",
+      "SideEffect": "Headache Drowsiness Dizziness Nausea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/6103f02e6df148fda2a8fd6e87008179.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Altraday Capsule SR",
+      "Composition": "Aceclofenac (200mg) + Rabeprazole (20mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Flatulence Indigestion Diarrhea Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ahmbxmi2bd1wiojpxqld.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Atarax 10mg Tablet",
+      "Composition": "Hydroxyzine (10mg)",
+      "Uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+      "SideEffect": "Sedation Nausea Vomiting Upset stomach Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/78d80a6bca96417f83c6d38c5c140c0b.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Aldigesic-SP Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (10mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Vomiting Stomach pain Indigestion Heartburn Loss of appetite Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/86cc6259fcc8462f876cdeb85d9aa87d.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Aldactone Tablet",
+      "Composition": "Spironolactone (25mg)",
+      "Uses": " Hypertension (high blood pressure) Edema Low potassium Heart failure",
+      "SideEffect": "Nausea Vomiting Leg cramps Dizziness Drowsiness Confusion Breast enlargement in male Increased creatinine level in blood",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/thkgrdicoq6adxgpwu2e.jpg",
+      "Manufacturer": "RPG Life Sciences Ltd"
+    },
+    {
+      "Name": "Aricep 10 Tablet",
+      "Composition": "Donepezil (10mg)",
+      "Uses": " Alzheimer's disease",
+      "SideEffect": "Common cold Urinary incontinence Rash Nausea Diarrhea Insomnia difficulty in sleeping Weight loss Accidental injury",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/fgnxl4znhmpzu2r0mals.jpg",
+      "Manufacturer": "Eisai Pharmaceuticals India Pvt Ltd"
+    },
+    {
+      "Name": "Aricep-M  Tablet",
+      "Composition": "Donepezil (5mg) + Memantine (5mg)",
+      "Uses": " Alzheimer's disease",
+      "SideEffect": "Nausea Vomiting Loss of appetite Diarrhea Headache Dizziness Bleeding under the skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/a458dc3089a64183962fe107b20f3481.jpg",
+      "Manufacturer": "Eisai Pharmaceuticals India Pvt Ltd"
+    },
+    {
+      "Name": "Andre I-Kul Eye Drop",
+      "Composition": "Camphor (0.01% w/v) + Menthol (0.005% w/v) + Naphazoline (0.05% w/v) + Phenylephrine (0.12% w/v)",
+      "Uses": "Treatment of Allergic eye disease",
+      "SideEffect": "Eye pain Eye irritation Stinging in the eyes Blurred vision Photophobia",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/0d82813d035349cea0c99da3fd52469d.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Anafortan 25 mg/300 mg Tablet",
+      "Composition": "Camylofin (25mg) + Paracetamol (300mg)",
+      "Uses": "Treatment of Abdominal pain",
+      "SideEffect": "Dryness in mouth Constipation Blurred vision Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/4424607f37424d51b2aac2c9d8b18ecd.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Atarax Syrup",
+      "Composition": "Hydroxyzine (10mg)",
+      "Uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+      "SideEffect": "Sedation Nausea Vomiting Upset stomach Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ktaklgpxpq94qk1tfffg.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Ambrodil-S Syrup",
+      "Composition": "Ambroxol (15mg/5ml) + Salbutamol (1mg/5ml)",
+      "Uses": "Treatment of Cough",
+      "SideEffect": "Headache Palpitations Upset stomach Tremors Muscle cramp Allergic reaction Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/c25660f6b3f2447ea4666a0780982a3f.jpg",
+      "Manufacturer": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Asthakind-DX Syrup Sugar Free",
+      "Composition": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Nausea Vomiting Loss of appetite Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/769827d9bf334847a74374b4af97921a.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Aceclo Plus Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Vomiting Stomach pain epigastric pain Loss of appetite Heartburn Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/qdjkuq9eipidsadmcosn.jpg",
+      "Manufacturer": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Althrocin 500 Tablet",
+      "Composition": "Erythromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/suqhdntiejebthfbdpy0.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Asthalin Syrup",
+      "Composition": "Salbutamol (2mg/5ml)",
+      "Uses": "Treatment of Chronic obstructive pulmonary disease (COPD)Treatment and prevention of Asthma",
+      "SideEffect": "Tremors Headache Palpitations Increased heart rate Muscle cramp Nervousness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/45fbf90154794c7dae0630d5c201f368.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Axcer  90mg Tablet",
+      "Composition": "Ticagrelor (90mg)",
+      "Uses": " Prevention of heart attack and stroke",
+      "SideEffect": "Bleeding Breathlessness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/6c8ab4b43c254532b37e035eaf3f931c.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Arachitol 6L Injection",
+      "Composition": "Vitamin D3 (600000IU)",
+      "Uses": "Treatment of Vitamin D deficiencyTreatment of Osteoporosis",
+      "SideEffect": "Injection site reactions pain swelling redness Weakness Muscle pain Metallic taste",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/485c7b62664a44fd984080ee0ee15906.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Alfoo 10mg Tablet PR",
+      "Composition": "Alfuzosin (10mg)",
+      "Uses": "Treatment of Benign prostatic hyperplasia",
+      "SideEffect": "Upper respiratory tract infection Dizziness Headache Nausea Abdominal pain Impotence",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/a34pbmqti99hu1y1zz5r.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Azithral 200 Liquid",
+      "Composition": "Azithromycin (200mg/5ml)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/mbdxk2kboh3llijyaao2.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Acemiz Plus Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Vomiting Stomach pain epigastric pain Loss of appetite Heartburn Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/m7bioz7rvmxcfshqu3iz.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Allegra Suspension Raspberry &amp; Vanilla",
+      "Composition": "Fexofenadine (30mg/5ml)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Allergic conditions",
+      "SideEffect": "Headache Drowsiness Dizziness Nausea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/9ddf89aa480145c6830f45e48626336d.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Alex Junior Syrup",
+      "Composition": "Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (5mg/5ml)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Upset stomach Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ljalzjzxyy64yutmr3tw.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Azicip 500 Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/dwqhqfos0hlzsltrwraf.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Avil Injection",
+      "Composition": "Pheniramine (22.75mg)",
+      "Uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+      "SideEffect": "Sedation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/n2al1qoxuxtzshwgwbt0.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Aquasol A Capsule",
+      "Composition": "Vitamin A (25000IU)",
+      "Uses": "Treatment of Vitamin A deficiency",
+      "SideEffect": "No common side effects seen",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/mytnmvyspijambekkody.jpg",
+      "Manufacturer": "USV Ltd"
+    },
+    {
+      "Name": "Anobliss Cream",
+      "Composition": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w)",
+      "Uses": "Treatment of Anal fissure",
+      "SideEffect": "Anal irritation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/612a8de029ee416ab320d109d19d2293.jpg",
+      "Manufacturer": "Samarth Life Sciences Pvt Ltd"
+    },
+    {
+      "Name": "Augmentin DDS Suspension",
+      "Composition": "Amoxycillin  (400mg/5ml) +  Clavulanic Acid (57mg/5ml)",
+      "Uses": "Treatment of Resistant Tuberculosis (TB)Treatment of Bacterial infections",
+      "SideEffect": "Abdominal pain Allergy Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kafbzrabyoihauyvnig4.jpg",
+      "Manufacturer": "Glaxo SmithKline Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Almox 500 Capsule",
+      "Composition": "Amoxycillin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Diarrhea Skin rash Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/h4y2f030gju0ftmou0t5.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "AF Kit Tablet",
+      "Composition": "Azithromycin (1000mg) + Ornidazole (750mg) + Fluconazole (150mg)",
+      "Uses": "Treatment of Syndromic treatment of vaginal discharge",
+      "SideEffect": "Taste change Vomiting Headache Dizziness Stomach pain Nausea Indigestion Diarrhea Loss of appetite",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hfobjftgqrervreplh6u.jpg",
+      "Manufacturer": "Systopic Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Ascoril LS Junior Syrup",
+      "Composition": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/r22ftufqfbkaxevlo6wn.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Asthalin 100mcg Inhaler",
+      "Composition": "Salbutamol (100mcg)",
+      "Uses": "Treatment of Chronic obstructive pulmonary disease (COPD)Treatment and prevention of Asthma",
+      "SideEffect": "Tremors Headache Palpitations Increased heart rate Muscle cramp Respiratory tract inflammation Respiratory tract infection Cough",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/9117d15a82fc4d41889e083e295d7de9.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Aptimust Syrup",
+      "Composition": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml)",
+      "Uses": " Appetite stimulant",
+      "SideEffect": "Constipation Dryness in mouth Drowsiness Sleepiness Blurred vision",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/uhilkoau5xmywwkw1ekx.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "AB Phylline Capsule",
+      "Composition": "Acebrophylline (100mg)",
+      "Uses": "Treatment of AsthmaTreatment of BronchitisTreatment of Chronic obstructive pulmonary disease (COPD)",
+      "SideEffect": "Vomiting Abdominal pain Drowsiness Heartburn Increased white blood cell count Loss of appetite Rash Itching Constipation Diarrhea Abdominal discomfort Abdominal distension Esophageal bleeding Red spots or bumps Breathing problems High white blood cell count Nasal inflammation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/pydoe2cjed0vjf2or3kk.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Azee 200mg Dry Syrup",
+      "Composition": "Azithromycin (200mg/5ml)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/xkg1pweump6uhajxdn7y.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Adaferin Gel",
+      "Composition": "Adapalene (0.1% w/w)",
+      "Uses": " Acne",
+      "SideEffect": "Erythema skin redness Dry skin Skin peeling Skin burn Itching",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/c4fqrcdtmux6sdv8lq4o.jpg",
+      "Manufacturer": "Galderma India Pvt Ltd"
+    },
+    {
+      "Name": "Amitone 10mg Tablet",
+      "Composition": "Amitriptyline (10mg)",
+      "Uses": "Treatment of Depression Neuropathic painTreatment of Migraine",
+      "SideEffect": "Constipation Dryness in mouth Orthostatic hypotension sudden lowering of blood pressure on standing Weight gain Aggressive behavior Nasal congestion stuffy nose Sleepiness Dizziness Headache Decreased libido Nausea Fatigue Confusion Tremors Speech disorder Palpitations Taste change Paresthesia tingling or pricking sensation Abnormality of voluntary movements Loss of accommodation Atrioventricular block Micturition disorders Erectile dysfunction Abnormal E C G Decreased sodium level in blood",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ffddf4528375471cb02d465b546f4697.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Ambrodil Syrup",
+      "Composition": "Ambroxol (30mg/5ml)",
+      "Uses": "Treatment of Respiratory tract disorders associated with viscid mucus",
+      "SideEffect": "Vomiting Nausea Upset stomach",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/qwyph0ryjvrnimzm98tq.jpg",
+      "Manufacturer": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "AB-Flo-N Tablet",
+      "Composition": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
+      "Uses": "Treatment of Chronic obstructive pulmonary disease (COPD)",
+      "SideEffect": "Vomiting Heartburn Stomach pain Upset stomach Rash Hives Itching Breathing problems Nasal inflammation Increased white blood cell count",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/lwfoqt9iygk2n0rkyhql.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Ascoril LS Drops",
+      "Composition": "Ambroxol (7.5mg/ml) + Levosalbutamol (0.25mg/ml) + Guaifenesin (12.5mg/ml)",
+      "Uses": "Acute Sore throatTreatment of Cough with mucus",
+      "SideEffect": "Vomiting Diarrhea Excessive salivation Fatigue Headache Dizziness Rash Numbness of extremity Nausea Increased heart rate Stomach discomfort Palpitations Tremors Muscle cramp",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jv6sexgkqc9bkfwhxnbv.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Alex Cough Lozenges Lemon Ginger",
+      "Composition": "Dextromethorphan Hydrobromide (5mg)",
+      "Uses": " Dry cough",
+      "SideEffect": "Sleepiness Dizziness Confusion Nausea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ly4rp256e6sytjaxz8ht.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Atorva 40 Tablet",
+      "Composition": "Atorvastatin (40mg)",
+      "Uses": " High cholesterolPrevention of Heart attack",
+      "SideEffect": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/1fa02b0711dc4f91a367fdd438cb6e98.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Aziderm 20% Cream",
+      "Composition": "Azelaic Acid (20% w/w)",
+      "Uses": "Treatment of Acne",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/20a65251c88c460bb990c015f7ed0dea.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Ascoril D Junior Cough Syrup",
+      "Composition": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Nausea Vomiting Loss of appetite Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/atnpfu2zkydv86zn8yne.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Acogut Tablet",
+      "Composition": "Acotiamide (100mg)",
+      "Uses": "Treatment of Functional dyspepsia",
+      "SideEffect": "Headache Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/346a811d314244c892a10b9426058a16.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Augmentin 1000 Duo Tablet",
+      "Composition": "Amoxycillin  (875mg) +  Clavulanic Acid (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/n79pqwzyup7ax2zy3ra3.jpg",
+      "Manufacturer": "Glaxo SmithKline Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Ano Metrogyl Cream",
+      "Composition": "Lidocaine (4% w/w) + Metronidazole (1% w/w) + Sucralfate (7% w/w)",
+      "Uses": "Treatment of Anal fissure",
+      "SideEffect": "Burning sensation Tingling Rash",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/wysekhb41x9l4gs2e4lq.jpg",
+      "Manufacturer": "Lekar Pharma Ltd"
+    },
+    {
+      "Name": "Angispan - TR 2.5mg Capsule",
+      "Composition": "Nitroglycerin (2.5mg)",
+      "Uses": "Treatment of Angina (heart-related chest pain)",
+      "SideEffect": "Blurred vision Decreased blood pressure Dizziness Headache Increased heart rate Lightheadedness Paresthesia tingling or pricking sensation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/6c48a874d84443f5bf6df270f1faf50d.jpg",
+      "Manufacturer": "USV Ltd"
+    },
+    {
+      "Name": "Apdrops Eye Drop",
+      "Composition": "Moxifloxacin (0.5% w/v)",
+      "Uses": "Treatment of Bacterial eye infections",
+      "SideEffect": "Eye discomfort Dry eye Burning sensation in eye",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/b6323f9cbdda4899973d8778998fd4d0.jpg",
+      "Manufacturer": "Ajanta Pharma Ltd"
+    },
+    {
+      "Name": "Acivir 400 DT Tablet",
+      "Composition": "Acyclovir (400mg)",
+      "Uses": " Herpes Simplex Virus Infections Chickenpox Herpes labialis Shingles Genital herpes infection",
+      "SideEffect": "Headache Dizziness Vomiting Nausea Fatigue Fever Stomach pain Diarrhea Skin rash Photophobia",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/t8e7gul8px0js0dzcdwf.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Acivir Cream",
+      "Composition": "Acyclovir (5% w/w)",
+      "Uses": " Herpes labialis",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/qzqcndnceiecvuc8lkta.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Avil Injection",
+      "Composition": "Pheniramine (22.75mg)",
+      "Uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+      "SideEffect": "Sedation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/e17dda31de1747358229a8ff89c60eb2.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Azee 250 Tablet",
+      "Composition": "Azithromycin (250mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/uxoomhircghogsijuyuf.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Aldigesic P 100mg/325mg Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Vomiting Stomach pain epigastric pain Loss of appetite Heartburn Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/fef09c2f7cca4f778b510943b0d0a8c9.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Acitrom 2 Tablet",
+      "Composition": "Acenocoumarol (2mg)",
+      "Uses": "Treatment and prevention of Blood clots",
+      "SideEffect": "Hemorrhage",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/uo9v3rybrau5xkqzscnb.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Alerid Syrup",
+      "Composition": "Cetirizine (5mg/5ml)",
+      "Uses": "Treatment of Allergic conditions",
+      "SideEffect": "Nausea Muscle pain Edema swelling Sleepiness Fatigue Vomiting Dryness in mouth Headache Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/dsv803hfrd1pxyfcqw66.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Atorva Tablet",
+      "Composition": "Atorvastatin (10mg)",
+      "Uses": " High cholesterolPrevention of Heart attack",
+      "SideEffect": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/f5888caa9086409c9a1bde789bbb9761.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Azax 500 Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/a0767b125b584ef6996af0687504a948.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Aztor 10 Tablet",
+      "Composition": "Atorvastatin (10mg)",
+      "Uses": " High cholesterolPrevention of Heart attack",
+      "SideEffect": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/butfijqwslbzkav0x5yl.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Alciflox D Eye/Ear Drops",
+      "Composition": "Ciprofloxacin (0.3% w/v) + Dexamethasone (0.1% w/v)",
+      "Uses": "Treatment of Bacterial eye / ear infectionsTreatment of Eye infection with inflammation",
+      "SideEffect": "Application site reactions burning irritation itching and redness Eye discomfort Corneal deposits Ocular hyperemia Taste change Ear discomfort Ear pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/5e1e2a758d6d463b9ae475a504499290.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Amifru 40 Tablet",
+      "Composition": "Furosemide (40mg) + Amiloride (5mg)",
+      "Uses": "Treatment of Edema",
+      "SideEffect": "Nausea Vomiting Diarrhea Weakness Headache Dehydration Muscle cramp Decreased sodium level in blood Decreased magnesium level in blood Decreased calcium level in blood Increased blood uric acid",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/rwb8srqgdnglciceymku.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Aciloc 300 Tablet",
+      "Composition": "Ranitidine (300mg)",
+      "Uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Peptic ulcer disease",
+      "SideEffect": "Headache Diarrhea Gastrointestinal disturbance",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/iqhejxn4cms6fic8kgqm.jpg",
+      "Manufacturer": "Cadila Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Augmentin 1.2gm Injection",
+      "Composition": "Amoxycillin  (1000mg) +  Clavulanic Acid (200mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hdcim1c3hbl8tseavocx.jpg",
+      "Manufacturer": "Glaxo SmithKline Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Asthakind Expectorant Sugar Free",
+      "Composition": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Diarrhea Bloating Indigestion Vomiting Stomach pain Sweating Dizziness Headache Skin rash Hives Tremors Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/b886acf9c302423a89ba9d4b7016e06c.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Atorva 20 Tablet",
+      "Composition": "Atorvastatin (20mg)",
+      "Uses": " High cholesterolPrevention of Heart attack",
+      "SideEffect": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/a26355cfe6894c65b3084e81ac816df6.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "AB Phylline SR 200 Tablet",
+      "Composition": "Acebrophylline (200mg)",
+      "Uses": "Treatment of AsthmaTreatment of BronchitisTreatment of Chronic obstructive pulmonary disease (COPD)",
+      "SideEffect": "Vomiting Abdominal pain Drowsiness Heartburn Increased white blood cell count Loss of appetite Rash Itching Constipation Diarrhea Abdominal discomfort Abdominal distension Esophageal bleeding Red spots or bumps Breathing problems High white blood cell count Nasal inflammation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/h1gxe261svzejqxhozwo.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Aricep-M  Forte Tablet",
+      "Composition": "Donepezil (5mg) + Memantine (10mg)",
+      "Uses": " Alzheimer's disease",
+      "SideEffect": "Nausea Vomiting Loss of appetite Diarrhea Headache Dizziness Bleeding under the skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/a44e0vn4ts0y4nco6x1f.jpg",
+      "Manufacturer": "Eisai Pharmaceuticals India Pvt Ltd"
+    },
+    {
+      "Name": "Amaryl 1mg Tablet",
+      "Composition": "Glimepiride (1mg)",
+      "Uses": "Treatment of Type 2 diabetes mellitus",
+      "SideEffect": "Hypoglycemia low blood glucose level Headache Nausea Dizziness Weakness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/xz5q9xefnf4qurvkdyss.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Add Tears Lubricant Eye Drop",
+      "Composition": "Carboxymethylcellulose (0.5% w/v)",
+      "Uses": "Treatment of Dry eyes",
+      "SideEffect": "Eye irritation Burning eyes Eye discomfort Eye itching Eye pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/gb6vecck2cb2zlq4ibgj.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Aceclo-MR Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg) + Chlorzoxazone (500mg)",
+      "Uses": "Treatment of Muscular pain",
+      "SideEffect": "Nausea Vomiting Heartburn Stomach pain Diarrhea Loss of appetite Tiredness Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/t0ulcqbfllk7yqmqvkzt.jpg",
+      "Manufacturer": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Atarax Drops",
+      "Composition": "Hydroxyzine (6mg)",
+      "Uses": "Treatment of AnxietyTreatment of Skin conditions with inflammation & itching",
+      "SideEffect": "Sedation Nausea Vomiting Upset stomach Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kqchtk16aexafswoznxh.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Ambrodil-LX Syrup",
+      "Composition": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/vvkfwgws2p2al9jwdidw.jpg",
+      "Manufacturer": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Asthakind-LS Expectorant Cola Sugar Free",
+      "Composition": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/hifiqtanuufm47lmqehp.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Acton-OR Tablet SR",
+      "Composition": "Paracetamol (300mg) + Paracetamol (700mg)",
+      "Uses": " Pain relief Fever",
+      "SideEffect": "No common side effects seen",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/39e30c94-8c8c-4919-ad04-4956837dc152.jpeg",
+      "Manufacturer": "Apex Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Avamys Nasal Spray",
+      "Composition": "Fluticasone Furoate (0.05% w/w)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergies",
+      "SideEffect": "Nasal inflammation Headache Nosebleeds Nasal ulceration Breathlessness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ag2u6xs4ngrpzyrxxgwg.jpg",
+      "Manufacturer": "Glaxo SmithKline Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "AB Phylline N Tablet",
+      "Composition": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
+      "Uses": "Treatment of Chronic obstructive pulmonary disease (COPD)",
+      "SideEffect": "Vomiting Heartburn Stomach pain Upset stomach Rash Hives Itching Breathing problems Nasal inflammation Increased white blood cell count",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/vndxhd2yhnscgfodpzvv.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Acenac-P  Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Vomiting Stomach pain epigastric pain Loss of appetite Heartburn Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/yzd9gpvunwo5iug91gth.jpg",
+      "Manufacturer": "Medley Pharmaceuticals"
+    },
+    {
+      "Name": "Aldactone 50 Tablet",
+      "Composition": "Spironolactone (50mg)",
+      "Uses": " Hypertension (high blood pressure) Edema Low potassium Heart failure",
+      "SideEffect": "Nausea Vomiting Leg cramps Dizziness Drowsiness Confusion Breast enlargement in male Increased creatinine level in blood",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jztj849rvk1e9dzewu1a.jpg",
+      "Manufacturer": "RPG Life Sciences Ltd"
+    },
+    {
+      "Name": "Alerid Tablet",
+      "Composition": "Cetirizine (10mg)",
+      "Uses": "Treatment of Allergic conditions",
+      "SideEffect": "Sleepiness Fatigue Vomiting Dryness in mouth Headache Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ebql55l1cjgcgbjwl33e.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Aerocort Inhaler",
+      "Composition": "Levosalbutamol (50mcg) + Beclometasone (50mcg)",
+      "Uses": " Asthma",
+      "SideEffect": "Hoarseness of voice Headache Dizziness Pharyngitis Vomiting Bronchitis inflammation of the airways Dryness in mouth Cough Application site irritation Nausea Gastrointestinal motility disorder Thrush Throat irritation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/zz57ek6tsj8boa5kwj1q.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Acemiz-S Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg) + Serratiopeptidase (15mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Vomiting Stomach pain Indigestion Heartburn Loss of appetite Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/rajey5dlkp8loidd9zl6.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Asthalin Respules",
+      "Composition": "Salbutamol (2.5mg)",
+      "Uses": "Treatment of Chronic obstructive pulmonary disease (COPD)Treatment and prevention of Asthma",
+      "SideEffect": "Tremors Headache Palpitations Increased heart rate Muscle cramp Respiratory tract inflammation Respiratory tract infection Cough",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/2c79233f8c714af392f7f1f949d03174.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Azeflo Nasal Spray",
+      "Composition": "Fluticasone Propionate (50mcg) + Azelastine (140mcg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergies",
+      "SideEffect": "Taste change Nosebleeds Headache Cough Upper respiratory tract infection Dryness in mouth Nasopharyngitis inflammation of the throat and nasal passages Sinus inflammation Stomach discomfort Fungal infection of oropharynx Tremors Palpitations Voice change",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/1303675f89f54c9db683f49da9f44454.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Ace Proxyvon Tablet",
+      "Composition": "Aceclofenac (100mg) + Paracetamol (325mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Vomiting Stomach pain epigastric pain Loss of appetite Heartburn Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/z61phiiji1v3ecc5th6y.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Antiflu 75mg Capsule",
+      "Composition": "Oseltamivir Phosphate (75mg)",
+      "Uses": "Treatment of Influenza (flu)",
+      "SideEffect": "Nausea Vomiting Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/xlfda4lsg7frx2xzwt3g.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Augmentin 375 Tablet",
+      "Composition": "Amoxycillin  (250mg) +  Clavulanic Acid (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/wzg9mlswk2kcrueliur2.jpg",
+      "Manufacturer": "Glaxo SmithKline Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Admenta 5 Tablet",
+      "Composition": "Memantine (5mg)",
+      "Uses": " Alzheimer's disease",
+      "SideEffect": "Dizziness Headache Confusion Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/m1yvfvbvj5gpno8aoi7c.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Azmarda 50mg Tablet",
+      "Composition": "Sacubitril (24mg) + Valsartan (26mg)",
+      "Uses": "Treatment of Heart failure",
+      "SideEffect": "Dizziness Increased potassium level in blood Fatigue Hypotension low blood pressure",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/3e5bdb85-23a9-4179-a583-99dbdde44bb6.jpeg",
+      "Manufacturer": "J B Chemicals and Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Alerid-D Tablet",
+      "Composition": "Cetirizine (5mg) + Phenylephrine (10mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergies",
+      "SideEffect": "Dryness in mouth Headache Vomiting Sleepiness Fatigue Constipation Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kvv547fcb11clzlc0g7a.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Aldosmin 500mg Tablet",
+      "Composition": "Diosmin (450mg) + Hesperidin (50mg)",
+      "Uses": " Varicose veins",
+      "SideEffect": "Diarrhea Dizziness Hives Itching Nausea Erythema skin redness Stomach pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/3c5f6e710dd74dffbf0ba5cc4b6c5a07.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Allercet-DC Tablet",
+      "Composition": "Cetirizine (10mg) + Phenylephrine (10mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergies",
+      "SideEffect": "Dryness in mouth Headache Vomiting Sleepiness Fatigue Constipation Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/c5la63bs8j1m7llx7uyy.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Amlip 5 Tablet",
+      "Composition": "Amlodipine (5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)",
+      "SideEffect": "Headache Fatigue Nausea Abdominal pain Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/276c276ba0c94e0d99376c98295d8024.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Acitrom 1 Tablet",
+      "Composition": "Acenocoumarol (1mg)",
+      "Uses": "Treatment and prevention of Blood clots",
+      "SideEffect": "Hemorrhage",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/wmzszs6aed2temtxlhqy.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "AF 400 Tablet",
+      "Composition": "Fluconazole (400mg)",
+      "Uses": "Treatment of Fungal infections",
+      "SideEffect": "Headache Nausea Stomach pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/bs0vznvy7xxksky0gys5.jpg",
+      "Manufacturer": "Systopic Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Amlopres-AT Tablet",
+      "Composition": "Amlodipine (5mg) + Atenolol (50mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)",
+      "SideEffect": "Sleepiness Headache Ankle swelling Flushing sense of warmth in the face ears neck and trunk Slow heart rate Palpitations Nausea Edema swelling Constipation Tiredness Cold extremities",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/428b24c1abf74d97a441ea6bfc46f151.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Aztolet  10 Tablet",
+      "Composition": "Atorvastatin (10mg) + Clopidogrel (75mg)",
+      "Uses": " Heart attack prevention and high cholesterol",
+      "SideEffect": "Stomach pain Diarrhea Indigestion Constipation Headache Dizziness Muscle pain Weakness Increased glucose level in blood Increased liver enzymes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/dxecuqrrahyjkoylyce4.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Azikem 500mg Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/851f7e8785ae4c86afc5133725d5c956.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Amlovas 5 Tablet",
+      "Composition": "Amlodipine (5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)",
+      "SideEffect": "Headache Fatigue Nausea Abdominal pain Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/eow80qqpjlwuvoopjkjd.jpg",
+      "Manufacturer": "Macleods Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Acenac-MR Tablet",
+      "Composition": "Thiocolchicoside (4mg) + Aceclofenac (100mg) + Paracetamol (325mg)",
+      "Uses": "Treatment of Muscular pain",
+      "SideEffect": "Nausea Vomiting Heartburn Stomach pain Diarrhea Loss of appetite Dryness in mouth",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/adn1oxsqip7debtpbnk6.jpg",
+      "Manufacturer": "Medley Pharmaceuticals"
+    },
+    {
+      "Name": "AF 150 Tablet DT",
+      "Composition": "Fluconazole (150mg)",
+      "Uses": "Treatment of Fungal infections",
+      "SideEffect": "Headache Nausea Stomach pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hvce1aqwc18vcltaayto.jpg",
+      "Manufacturer": "Systopic Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Atorlip-F Tablet",
+      "Composition": "Atorvastatin (10mg) + Fenofibrate (145mg)",
+      "Uses": "Treatment of High cholesterolPrevention of Heart attack",
+      "SideEffect": "Nausea Stomach pain Constipation Flatulence Headache Muscle pain Increased liver enzymes Increased glucose level in blood",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ralku3v3ayimponr2kpc.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "A-Ret 0.1% Gel",
+      "Composition": "Tretinoin (0.1% w/w)",
+      "Uses": "Treatment of Acne Acute promyelocytic leukaemia",
+      "SideEffect": "Erythema skin redness Skin irritation Dry skin Dry lips Pale red skin Increased sensitivity to light",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hoiok8rirykpywxqsdhf.jpg",
+      "Manufacturer": "A. Menarini India Pvt Ltd"
+    },
+    {
+      "Name": "Apdrops PD Eye Drop",
+      "Composition": "Moxifloxacin (0.5% w/v) + Prednisolone (1% w/v)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Eye irritation Eye discomfort Blurred vision",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/umhh9aoaxssvlltb3lku.jpg",
+      "Manufacturer": "Ajanta Pharma Ltd"
+    },
+    {
+      "Name": "AB-Flo Capsule",
+      "Composition": "Acebrophylline (100mg)",
+      "Uses": "Treatment of AsthmaTreatment of BronchitisTreatment of Chronic obstructive pulmonary disease (COPD)",
+      "SideEffect": "Vomiting Abdominal pain Drowsiness Heartburn Increased white blood cell count Loss of appetite Rash Itching Constipation Diarrhea Abdominal discomfort Abdominal distension Esophageal bleeding Red spots or bumps Breathing problems High white blood cell count Nasal inflammation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ndlw5exiusjlnsgpa0gr.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Amantrel Tablet",
+      "Composition": "Amantadine (100mg)",
+      "Uses": "Treatment of Parkinson's disease",
+      "SideEffect": "Nausea Dryness in mouth Constipation Dizziness Blurred vision Insomnia difficulty in sleeping Hallucination Peripheral edema Balance disorder loss of balance Orthostatic hypotension sudden lowering of blood pressure on standing",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/a2c8j0vmdbyualoq4l6d.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Azithral XL 200 Liquid",
+      "Composition": "Azithromycin (200mg/5ml)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/cj8p9u4eltzlhkojpkni.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Aquazide 12.5 Tablet",
+      "Composition": "Hydrochlorothiazide (12.5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Treatment of Edema",
+      "SideEffect": "Headache Nausea Altered blood lipid level Weakness Dizziness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/eeun8esuvqmhpsog8jde.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "A-Ret 0.05% Gel",
+      "Composition": "Tretinoin (0.05% w/w)",
+      "Uses": "Treatment of Acne Acute promyelocytic leukaemia",
+      "SideEffect": "Erythema skin redness Skin irritation Dry skin Dry lips Pale red skin Increased sensitivity to light",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/vnqlc8kl0vcrv3fsnvhy.jpg",
+      "Manufacturer": "A. Menarini India Pvt Ltd"
+    },
+    {
+      "Name": "Althrocin 250 Tablet",
+      "Composition": "Erythromycin (250mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ivl1nprzr0mhbaodiffw.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Alkasol Oral Solution Sugar Free",
+      "Composition": "Disodium Hydrogen Citrate (1.4gm/5ml)",
+      "Uses": "Treatment of GoutTreatment of Kidney stone",
+      "SideEffect": "Stomach pain Tiredness Diarrhea Nausea Vomiting Frequent urge to urinate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/qki9ikl69kfatj6clsck.png",
+      "Manufacturer": "Stadmed Pvt Ltd"
+    },
+    {
+      "Name": "Ajaduo 25mg/5mg Tablet",
+      "Composition": "Empagliflozin (25mg) + Linagliptin (5mg)",
+      "Uses": "Treatment of Type 2 diabetes mellitus",
+      "SideEffect": "Hypoglycemia low blood glucose level Cough Nasopharyngitis inflammation of the throat and nasal passages Urinary tract infection Nausea Vomiting Constipation Genital fungal infection",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/rlmbfsbjzognbiresfcc.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Aldosmin 1000mg Tablet",
+      "Composition": "Diosmin (900mg) + Hesperidin (100mg)",
+      "Uses": " Varicose veins",
+      "SideEffect": "Diarrhea Dizziness Hives Itching Nausea Erythema skin redness Stomach pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/fbca239de3df4dd0a85fd78c4cda372f.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Allegra Nasal Spray",
+      "Composition": "Fluticasone Furoate (27.5mcg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergies",
+      "SideEffect": "Nasal inflammation Headache Nosebleeds Nasal ulceration Breathlessness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/vvy6twefjsj33i9s5ute.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Advent Forte 457mg Syrup Tangy Orange",
+      "Composition": "Amoxycillin  (400mg/5ml) +  Clavulanic Acid (57mg/5ml)",
+      "Uses": "Treatment of Resistant Tuberculosis (TB)Treatment of Bacterial infections",
+      "SideEffect": "Abdominal pain Allergy Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/qwtpgfw60k20hhc4jpzq.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Andial 2mg Tablet",
+      "Composition": "Loperamide (2mg)",
+      "Uses": " Diarrhea",
+      "SideEffect": "Constipation Nausea Headache Stomach pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/id3kkusufvufdd7al91r.jpg",
+      "Manufacturer": "Veritaz Healthcare Ltd"
+    },
+    {
+      "Name": "Alkof DX Syrup",
+      "Composition": "Chlorpheniramine Maleate (4mg) + Dextromethorphan Hydrobromide (10mg)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Upset stomach Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/smb8unr3vj5vuie3ct3s.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Anafortan Syrup",
+      "Composition": "Camylofin (12.5mg/5ml) + Paracetamol (125mg/5ml)",
+      "Uses": "Treatment of Abdominal pain",
+      "SideEffect": "Dryness in mouth Constipation Blurred vision Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/9db7076c5ebd426bb34da276e8c05979.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Amlodac 5 Tablet",
+      "Composition": "Amlodipine (5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)",
+      "SideEffect": "Headache Fatigue Nausea Abdominal pain Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/oivmzuonylh9edbwnpv0.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Acivir 800 DT Tablet",
+      "Composition": "Acyclovir (800mg)",
+      "Uses": " Herpes Simplex Virus Infections Chickenpox Herpes labialis Shingles Genital herpes infection",
+      "SideEffect": "Headache Dizziness Vomiting Nausea Fatigue Fever Stomach pain Diarrhea Skin rash Photophobia",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/h7pdensqjbagrbvudcjh.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Amaryl 2mg Tablet",
+      "Composition": "Glimepiride (2mg)",
+      "Uses": "Treatment of Type 2 diabetes mellitus",
+      "SideEffect": "Hypoglycemia low blood glucose level Headache Nausea Dizziness Weakness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/53ecbba7a19e4e40a4e3c139ce4c143e.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Alaspan AM Tablet",
+      "Composition": "Ambroxol (60mg) + Loratadine (5mg)",
+      "Uses": " Cough",
+      "SideEffect": "Upset stomach Headache Sleepiness Allergic reaction",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/d7e14c9c64264eaca888e53315fff590.jpg",
+      "Manufacturer": "Bayer Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Anabel Liquid Gel",
+      "Composition": "Choline Salicylate (8.7% w/w) + Lidocaine (2% w/w)",
+      "Uses": "Treatment of Mouth ulcers",
+      "SideEffect": "No common side effects seen",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/d04ec15787c244baaa562749956b514b.jpg",
+      "Manufacturer": "Group Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Air-M Tablet",
+      "Composition": "Montelukast (10mg) + Fexofenadine (120mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergies",
+      "SideEffect": "Nausea Diarrhea Vomiting Skin rash Flu like symptoms Headache Drowsiness Dizziness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/63fcbd108131463d9a9c3e2a8db18ce1.jpg",
+      "Manufacturer": "Systopic Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Aziderm 10% Cream",
+      "Composition": "Azelaic Acid (10% w/w)",
+      "Uses": "Treatment of Acne",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/fs3njrf7dob5yib4gi4m.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Ace-Proxyvon CR Tablet",
+      "Composition": "Aceclofenac (200mg) + Rabeprazole (20mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Nausea Flatulence Indigestion Diarrhea Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/btegs8famikztawlnorm.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Aten 50 Tablet",
+      "Composition": "Atenolol (50mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of ArrhythmiaPrevention of Heart attack",
+      "SideEffect": "Fatigue Slow heart rate Cold extremities Gastrointestinal disturbance",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/yd9x9zvhxhokhw1vfnuy.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Asthalin 4 Tablet",
+      "Composition": "Salbutamol (4mg)",
+      "Uses": "Treatment of Chronic obstructive pulmonary disease (COPD)Treatment and prevention of Asthma",
+      "SideEffect": "Tremors Headache Palpitations Increased heart rate Muscle cramp Nervousness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/bad0wkxxywzgvsrscxgs.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Azithral Eye Ointment",
+      "Composition": "Azithromycin (1% w/w)",
+      "Uses": "Treatment of Bacterial eye infections",
+      "SideEffect": "Burning eyes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/asmtf1aprfdt36tkjy11.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Aziwok 500 Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/mlj5besvcjq6pjx7zzyw.jpg",
+      "Manufacturer": "Dr Reddy's Laboratories Ltd"
+    },
+    {
+      "Name": "Ambrolite-S Expectorant",
+      "Composition": "Ambroxol (30mg) + Guaifenesin (50mg) + Menthol (0.5mg) + Terbutaline (1.25mg)",
+      "Uses": " Cough",
+      "SideEffect": "Nausea Diarrhea Vomiting Dizziness Headache Rash Tremors Increased heart rate Upper abdominal pain Urticaria Itching Sweating Changes in serum aminotransferase levels Bloating Indigestion",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/575fbd82e6d3489e82a716cfd6b89dac.jpg",
+      "Manufacturer": "Tablets India Limited"
+    },
+    {
+      "Name": "AB-Flo SR Tablet",
+      "Composition": "Acebrophylline (200mg)",
+      "Uses": "Treatment of AsthmaTreatment of BronchitisTreatment of Chronic obstructive pulmonary disease (COPD)",
+      "SideEffect": "Vomiting Abdominal pain Drowsiness Heartburn Increased white blood cell count Loss of appetite Rash Itching Constipation Diarrhea Abdominal discomfort Abdominal distension Esophageal bleeding Red spots or bumps Breathing problems High white blood cell count Nasal inflammation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/zvwfs8sw9jcirock6v7a.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Ambrodil-Plus RF Syrup",
+      "Composition": "Ambroxol (15mg/5ml) + Pseudoephedrine (30mg/5ml) + Chlorpheniramine Maleate (2mg/5ml)",
+      "Uses": " Common cold",
+      "SideEffect": "Nausea Stomach discomfort Sleepiness Insomnia difficulty in sleeping Headache Dizziness Nervousness Restlessness Allergic reaction",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/1695a9c45032412891023693b9c70c6a.jpg",
+      "Manufacturer": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Asomex 2.5 Tablet",
+      "Composition": "S-Amlodipine (2.5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)Prevention of Heart attackPrevention of Stroke",
+      "SideEffect": "Ankle swelling Dizziness Fatigue Flushing sense of warmth in the face ears neck and trunk Headache Palpitations Abdominal pain Muscle cramp Nausea Sleepiness Visual disturbance Dyspepsia Breathlessness Change in bowel habits",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/b12qdkltkixelgjfutuf.jpg",
+      "Manufacturer": "Emcure Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Amlosafe 3D Tablet",
+      "Composition": "Telmisartan (40mg) + Amlodipine (5mg) + Hydrochlorothiazide (12.5mg)",
+      "Uses": " Hypertension (high blood pressure)",
+      "SideEffect": "Ankle swelling Dizziness Nausea Peripheral edema Mood changes Visual disturbance",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jfkrj7e7qy7kvqjb7gch.jpg",
+      "Manufacturer": "Aristo Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Alkof Syrup",
+      "Composition": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Diarrhea Bloating Indigestion Vomiting Stomach pain Sweating Dizziness Headache Skin rash Hives Tremors Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/9bfd1c8ea5f645cb8b6f5bc12cb449e9.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Angiplat 2.5 Capsule TR",
+      "Composition": "Nitroglycerin (2.5mg)",
+      "Uses": "Treatment of Angina (heart-related chest pain)",
+      "SideEffect": "Blurred vision Decreased blood pressure Dizziness Headache Increased heart rate Lightheadedness Paresthesia tingling or pricking sensation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/970ec9f5eeb8480e8af37d6fec1d78bb.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Aten 25 Tablet",
+      "Composition": "Atenolol (25mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Treatment of Angina (heart-related chest pain)Treatment of ArrhythmiaPrevention of Heart attack",
+      "SideEffect": "Fatigue Slow heart rate Cold extremities Gastrointestinal disturbance",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/cotpwbgqemzhr1tq4jvc.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Admenta 10 Tablet",
+      "Composition": "Memantine (10mg)",
+      "Uses": " Alzheimer's disease",
+      "SideEffect": "Dizziness Headache Confusion Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/g6hkvwmuwd3rjztgzzdn.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Aztor 40 Tablet",
+      "Composition": "Atorvastatin (40mg)",
+      "Uses": " High cholesterolPrevention of Heart attack",
+      "SideEffect": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/dsqhl9apwk78v0tvgzgd.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Alkof Junior Syrup",
+      "Composition": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Nausea Vomiting Loss of appetite Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/03f826629d564162b06129fa1d709ddb.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Azithral 100 Liquid",
+      "Composition": "Azithromycin (20mg/ml)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/1dde628fc48943eca12ddc1bc6653c50.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Azibact 500 Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/m8cobpxx2wff3aeptrn9.jpg",
+      "Manufacturer": "Ipca Laboratories Ltd"
+    },
+    {
+      "Name": "Amrox-LS Syrup",
+      "Composition": "Ambroxol (30mg) + Levosalbutamol (1mg) + Guaifenesin (50mg)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cb6d22809e33492f8eefd76971e746fc.jpg",
+      "Manufacturer": "Leeford Healthcare Ltd"
+    },
+    {
+      "Name": "Abzorb Antifungal Soap",
+      "Composition": "Clotrimazole (1% w/w)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Blisters Skin peeling Swelling Application site irritation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hsw4l9wcx4xspvqg1nee.png",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Arip MT 5 Tablet",
+      "Composition": "Aripiprazole (5mg)",
+      "Uses": " Schizophrenia Mania",
+      "SideEffect": "Akathisia inability to stay still Anxiety Blurred vision Constipation Dizziness Fatigue Headache Increased saliva production Indigestion Insomnia difficulty in sleeping Nausea Parkinsonism Restlessness Sleepiness Tremors Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ad151bd1402147358a53ed5d6bc7ff4e.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Axogurd-SR Tablet",
+      "Composition": "Methylcobalamin (1500mcg) + Pregabalin (75mg)",
+      "Uses": "Treatment of Neuropathic pain",
+      "SideEffect": "Dizziness Sleepiness Tiredness Uncoordinated body movements",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/zrcvsgzt9iiqcowklagh.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Alfusin Tablet PR",
+      "Composition": "Alfuzosin (10mg)",
+      "Uses": "Treatment of Benign prostatic hyperplasia",
+      "SideEffect": "Upper respiratory tract infection Dizziness Headache Nausea Abdominal pain Impotence",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/q6jvfktxywudxnztipjw.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "ATM 500 Tablet",
+      "Composition": "Azithromycin (500mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/sekpjjnrd6vehtsjfncj.jpg",
+      "Manufacturer": "Indoco Remedies Ltd"
+    },
+    {
+      "Name": "Alerfix Total Tablet SR",
+      "Composition": "Ambroxol (75mg) + Levocetirizine (5mg) + Montelukast (10mg)",
+      "Uses": "Treatment of Respiratory tract disorders associated with viscid mucus",
+      "SideEffect": "Nausea Upset stomach Dryness in mouth Headache Fatigue Allergic reaction Sleepiness Flu like symptoms",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/zmvcksshowex5pp3p4bk.jpg",
+      "Manufacturer": "Eris Lifesciences Ltd"
+    },
+    {
+      "Name": "Advent 625 Tablet",
+      "Composition": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/osfdeeu95or1wese6lzp.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Amlovas-AT Tablet",
+      "Composition": "Amlodipine (5mg) + Atenolol (50mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)",
+      "SideEffect": "Sleepiness Headache Ankle swelling Flushing sense of warmth in the face ears neck and trunk Slow heart rate Palpitations Nausea Edema swelling Constipation Tiredness Cold extremities",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/qhysxv6qc4oldtr29ygt.jpg",
+      "Manufacturer": "Macleods Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Aziderm 10% Gel",
+      "Composition": "Azelaic Acid (10% w/w)",
+      "Uses": "Treatment of Acne",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/h12keeomb2jdrqcenqkt.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Avil 50mg Tablet",
+      "Composition": "Pheniramine (50mg)",
+      "Uses": "Treatment of Allergic conditionsTreatment of Respiratory disease with excessive mucusTreatment of Skin conditions with inflammation & itchingTreatment and prevention of Meniere's disease",
+      "SideEffect": "Sedation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hb3cqsruyt3hmr0qtdir.jpg",
+      "Manufacturer": "Sanofi India Ltd"
+    },
+    {
+      "Name": "Alivher Tablet",
+      "Composition": "Sildenafil (25mg)",
+      "Uses": "Treatment of Erectile dysfunction",
+      "SideEffect": "Flushing sense of warmth in the face ears neck and trunk Headache Stiffness Nosebleeds Blurred vision Indigestion Muscle pain Upset stomach Rash",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/befja14cnqzzjpv8aoxy.jpg",
+      "Manufacturer": "Akumentis Healthcare Ltd"
+    },
+    {
+      "Name": "Anafortan Injection",
+      "Composition": "Camylofin (25mg)",
+      "Uses": " Abdominal cramp",
+      "SideEffect": "Palpitations Arrhythmia irregular heartbeats Increased heart rate Dry skin Excessive thirst Dryness in mouth Photophobia Reduce bronchial secretion Flushing sense of warmth in the face ears neck and trunk Dilatation of pupil Difficulty in urination Loss of accommodation Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/5c94eb78ecc44cbf875515c3137fce8d.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Aprezo 30mg Tablet",
+      "Composition": "Apremilast (30mg)",
+      "Uses": " Plaque psoriasis",
+      "SideEffect": "Diarrhea Nausea Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/yhf8jfvuawxpb0p7mm2g.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Acnesol Gel",
+      "Composition": "Clindamycin (1% w/w)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Skin rash Stomach pain Nausea Vomiting Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/u4us7b8kdg0szled1lnd.jpg",
+      "Manufacturer": "Systopic Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Amlopres 5 Tablet",
+      "Composition": "Amlodipine (5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)",
+      "SideEffect": "Headache Fatigue Nausea Abdominal pain Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/kpcfch3rqoqgvxtn8exv.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "A-Ret 0.025% Gel",
+      "Composition": "Tretinoin (0.025% w/w)",
+      "Uses": "Treatment of Acne Acute promyelocytic leukaemia",
+      "SideEffect": "Erythema skin redness Skin irritation Dry skin Dry lips Pale red skin Increased sensitivity to light",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/otyd7rqbqgtcwzf2mvlv.jpg",
+      "Manufacturer": "A. Menarini India Pvt Ltd"
+    },
+    {
+      "Name": "Actibile 300 Tablet",
+      "Composition": "Ursodeoxycholic Acid (300mg)",
+      "Uses": "Treatment of Primary biliary cirrhosisTreatment of Gallbladder stones",
+      "SideEffect": "Abdominal pain Diarrhea Hair loss Itching Nausea Rash",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ac2d065c25df4b819d9f4f872bdc908f.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Alex Syrup Sugar Free",
+      "Composition": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Nausea Vomiting Loss of appetite Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/d594vkaweet8hma6ei8u.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Azee 100mg Dry Syrup Peppermint",
+      "Composition": "Azithromycin (100mg/5ml)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Abdominal pain Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/kawgxmgqjtqrsbhbylzz.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Alex-L Cough Syrup Mango",
+      "Composition": "Levocloperastine (20mg/5ml)",
+      "Uses": "Treatment of Dry cough",
+      "SideEffect": "Palpitations Dizziness Fainting Fatigue Headache Sleepiness Gastrointestinal disturbance Confusion Numbness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/n5vvt9nfnzmpyen6rjzt.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Amtas 5 Tablet",
+      "Composition": "Amlodipine (5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)Prevention of Angina (heart-related chest pain)",
+      "SideEffect": "Headache Fatigue Nausea Abdominal pain Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/n33hxfz2x9gnn38go5zc.png",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Amoxyclav 375 Tablet",
+      "Composition": "Amoxycillin  (250mg) +  Clavulanic Acid (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/f47517fb502e4d52998b9adeb585e4df.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Arbitel-Trio 50 Tablet ER",
+      "Composition": "Cilnidipine (10mg) + Metoprolol Succinate (50mg) + Telmisartan (40mg)",
+      "Uses": " Hypertension (high blood pressure)",
+      "SideEffect": "Nausea Taste change Constipation Diarrhea Headache Dizziness Weakness Ankle swelling Flushing sense of warmth in the face ears neck and trunk Edema swelling Increased potassium level in blood Slow heart rate Numbness of extremity Cold extremities Decreased blood pressure",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/fm1l5li5xtgffad5rhmy.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Almox 250 Capsule",
+      "Composition": "Amoxycillin (250mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Diarrhea Skin rash Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/vukpokboak2tykljsnir.jpg",
+      "Manufacturer": "Alkem Laboratories Ltd"
+    },
+    {
+      "Name": "Amlopres TL Tablet",
+      "Composition": "Telmisartan (40mg) + Amlodipine (5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)",
+      "SideEffect": "Sleepiness Ankle swelling Headache Flushing sense of warmth in the face ears neck and trunk Dizziness Tiredness Palpitations Upset stomach Increased potassium level in blood",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/adzllpewnzw87iuuwwxl.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Asthakind-P Drops",
+      "Composition": "Ambroxol (7.5mg) + Guaifenesin (12.5mg) + Terbutaline (0.25mg)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Excessive salivation Fatigue Paresthesia tingling or pricking sensation Stomach discomfort Arrhythmia irregular heartbeats Nausea Vomiting Diarrhea Dizziness Headache Rash Tremors Increased heart rate Indigestion Bloating Upper abdominal pain Urticaria Itching Sweating Changes in serum aminotransferase levels",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/taol7bhbnf9qlud0nqmc.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Aztor 20 Tablet",
+      "Composition": "Atorvastatin (20mg)",
+      "Uses": " High cholesterolPrevention of Heart attack",
+      "SideEffect": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/leylf03db8nl1scfmdy2.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Azulix 1 MF Tablet PR",
+      "Composition": "Glimepiride (1mg) + Metformin (500mg)",
+      "Uses": "Treatment of Type 2 diabetes mellitus",
+      "SideEffect": "Hypoglycemia low blood glucose level Headache Nausea Diarrhea Flatulence",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/51adc2d022e245a58ecb69e83dd3d9c3.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Aqualube Eye Drop",
+      "Composition": "Carboxymethylcellulose (0.5% w/v)",
+      "Uses": "Treatment of Dry eyes",
+      "SideEffect": "Eye irritation Burning eyes Eye discomfort Eye itching Eye pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/oz7n4jf0tjs9v5rvlayv.jpg",
+      "Manufacturer": "Ajanta Pharma Ltd"
+    },
+    {
+      "Name": "Ambrolite Syrup",
+      "Composition": "Ambroxol (30mg/5ml)",
+      "Uses": "Treatment of Respiratory tract disorders associated with viscid mucus",
+      "SideEffect": "Vomiting Nausea Upset stomach",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/qsonjrz8itujtlypau40.jpg",
+      "Manufacturer": "Tablets India Limited"
+    },
+    {
+      "Name": "Aztor Asp 75 Capsule",
+      "Composition": "Atorvastatin (10mg) + Aspirin (75mg)",
+      "Uses": "Treatment of Prevention of heart attack and stroke",
+      "SideEffect": "Abdominal pain Constipation Flatulence Increased liver enzymes Hepatitis viral infection of liver Reye s syndrome like symptoms",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/6a3a8eee2bc847219154eac3914866a3.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Acuclav 625 Tablet",
+      "Composition": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Vomiting Nausea Diarrhea Mucocutaneous candidiasis",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/f5adefe53022481c9a5217992fe8600d.jpg",
+      "Manufacturer": "Macleods Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Ascoril SF Expectorant",
+      "Composition": "Guaifenesin (50mg) + Terbutaline (1.25mg) + Bromhexine (2mg)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Diarrhea Bloating Indigestion Vomiting Stomach pain Sweating Dizziness Headache Skin rash Hives Tremors Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/8788fc3cb7c344ab8f8907ae1524e05f.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Acutret 20 Capsule",
+      "Composition": "Isotretinoin (20mg)",
+      "Uses": "Treatment of Acne",
+      "SideEffect": "Dry skin Increased liver enzymes Rash",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/e5f11a9aa45845c7b4d36f440a0b8a1f.jpg",
+      "Manufacturer": "Ipca Laboratories Ltd"
+    },
+    {
+      "Name": "Adalene Nanogel Gel",
+      "Composition": "Adapalene (0.1% w/w) + Clindamycin (1% w/w)",
+      "Uses": "Treatment of Acne",
+      "SideEffect": "Skin peeling Erythema skin redness Itching Dry skin Burning sensation at the site of application",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/adg8hob7slvaxeeziydx.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Anorelief Cream",
+      "Composition": "Lidocaine (1.5% w/w) + Nifedipine (0.3% w/w)",
+      "Uses": "Treatment of Anal fissure",
+      "SideEffect": "Anal irritation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/fdlq7sbdfdc1kqe3jbnl.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Atorfit CV 10 Capsule",
+      "Composition": "Atorvastatin (10mg) + Clopidogrel (75mg)",
+      "Uses": " Heart attack prevention and high cholesterol",
+      "SideEffect": "Stomach pain Diarrhea Indigestion Constipation Headache Dizziness Muscle pain Weakness Increased glucose level in blood Increased liver enzymes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/uymcdzbsigiysvwsqa9m.jpg",
+      "Manufacturer": "Ajanta Pharma Ltd"
+    },
+    {
+      "Name": "Allercet Cold Tablet",
+      "Composition": "Levocetirizine (5mg) + Phenylephrine (10mg) + Paracetamol (500mg)",
+      "Uses": "Treatment of Common cold",
+      "SideEffect": "Vomiting Dryness in mouth Headache Sleepiness Fatigue Constipation Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/07fd1bbe050a42ddbac296b989993780.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "AD 100mg Capsule",
+      "Composition": "Racecadotril (100mg)",
+      "Uses": "Treatment of Diarrhea",
+      "SideEffect": "Vomiting Dizziness General discomfort Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/uxs7igrdgo8fuvjqatmm.jpg",
+      "Manufacturer": "Hetero Drugs Ltd"
+    },
+    {
+      "Name": "Liofen 5 Tablet",
+      "Composition": "Baclofen (5mg)",
+      "Uses": " Muscle relaxation",
+      "SideEffect": "Dizziness Convulsion Nausea Headache Sedation Hypotension low blood pressure Hypotonia decreased muscle tone Agitation Constipation Increased white blood cell count Chills Urinary retention",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/fhcwcos19ichrt1fobgt.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Luprodex Depot 3.75mg Injection",
+      "Composition": "Leuprolide (3.75mg)",
+      "Uses": "Treatment of Prostate cancerTreatment of EndometriosisTreatment of Uterine fibroidsTreatment of Precocious puberty (premature puberty)",
+      "SideEffect": "Decreased libido Testicular atrophy Increased sweating Fatigue Muscle weakness Erectile dysfunction Bone pain Injection site reaction Hot flashes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/5a03d846a1dd4f04b45991bf5356dfcf.jpg",
+      "Manufacturer": "Bharat Serums & Vaccines Ltd"
+    },
+    {
+      "Name": "Lmwx 40 Injection",
+      "Composition": "Enoxaparin (40mg)",
+      "Uses": "Treatment and prevention of Blood clots",
+      "SideEffect": "Bleeding Headache Low blood platelets Increased liver enzymes Anemia low number of red blood cells Fever Injection site pain Breathing problems Edema swelling Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/3c668776aa334cfa8130f1530819a54d.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Lulifin Lotion",
+      "Composition": "Luliconazole (1% w/v)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/id1eeoamcbewb9vzlgpt.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Laregab-AT Tablet",
+      "Composition": "Gabapentin (300mg) + Amitriptyline (10mg)",
+      "Uses": " Neuropathic pain",
+      "SideEffect": "Constipation Difficulty in urination Weight gain Sleepiness Dizziness Tiredness Uncoordinated body movements Increased heart rate Orthostatic hypotension sudden lowering of blood pressure on standing Blurred vision Dryness in mouth",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/u0uxjh9h3y0hhql6xx5f.jpg",
+      "Manufacturer": "La Renon Healthcare Pvt Ltd"
+    },
+    {
+      "Name": "Lubowel 24 Soft Gelatin Capsule",
+      "Composition": "Lubiprostone (24mcg)",
+      "Uses": " Constipation Irritable bowel syndrome",
+      "SideEffect": "Nausea Headache Abdominal pain Abdominal distension Diarrhea Flatulence",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/qfze0irl4vncrtywlt2f.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Liquid Parafin",
+      "Composition": "Liquid Paraffin (NA)",
+      "Uses": " Dry Skin",
+      "SideEffect": "No common side effects seen",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ymqz6d0juqttg0zegkti.jpg",
+      "Manufacturer": "General Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Lincotus DX  Dry Cough Formula",
+      "Composition": "Ambroxol (15mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml) + Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Menthol (1.5mg/5ml)",
+      "Uses": "Treatment of Cough",
+      "SideEffect": "Headache Nausea Vomiting Upset stomach Sleepiness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/zs01ulmu0adfncfoeris.jpg",
+      "Manufacturer": "Macleods Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Lumigan 0.01% Ophthalmic Solution",
+      "Composition": "Bimatoprost (0.01% w/v)",
+      "Uses": " Ocular hypertension Glaucoma",
+      "SideEffect": "Conjunctival hyperemia Eye itching",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/3b54ad998329477ba60a5b758892024a.jpg",
+      "Manufacturer": "Allergan India Pvt Ltd"
+    },
+    {
+      "Name": "Lizoforce Dry Syrup",
+      "Composition": "Linezolid (100mg/5ml)",
+      "Uses": "Treatment of Resistant Tuberculosis (TB)Treatment of Severe bacterial infections",
+      "SideEffect": "Decreased blood pressure Vomiting Headache Nausea Decreased blood cells red cells white cells and platelets Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ob1r3niqzuploql0j3rf.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Liofen XL 20 Capsule",
+      "Composition": "Baclofen (20mg)",
+      "Uses": " Muscle relaxation",
+      "SideEffect": "Dizziness Convulsion Nausea Headache Sedation Hypotension low blood pressure Hypotonia decreased muscle tone Agitation Constipation Increased white blood cell count Chills Urinary retention",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/la6auyb78ntgp7zq4rtc.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lulibrut Cream",
+      "Composition": "Luliconazole (1% w/w)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/j0bq8m7ezmsprtbuebbv.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Lipicard Capsule",
+      "Composition": "Fenofibrate (200mg)",
+      "Uses": " High cholesterol",
+      "SideEffect": "Increased liver enzymes Nausea Vomiting Flatulence Abdominal pain Diarrhea Headache Back pain Increased creatine phosphokinase C P K level in blood Inflammation of the nose",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ycv2a3jpek53wfvuj9j4.jpg",
+      "Manufacturer": "USV Ltd"
+    },
+    {
+      "Name": "Lysoflam-MR Tablet",
+      "Composition": "Diclofenac (50mg) + Metaxalone (400mg)",
+      "Uses": "Treatment of Pain due to muscle spasm",
+      "SideEffect": "Nausea Vomiting Stomach pain epigastric pain Heartburn Diarrhea Sleepiness Loss of appetite",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/77af133ad1d44bf78acd1c75be7ac92b.jpg",
+      "Manufacturer": "Cachet Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Lupisulin M 30 Solution for Injection 40IU/ml",
+      "Composition": "Insulin Isophane/NPH   (70%) +   Human Insulin/Soluble Insulin (30%)",
+      "Uses": " Diabetes",
+      "SideEffect": "Hypoglycemia low blood glucose level Injection site reactions pain swelling redness Weight gain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/qr3pzwuatsrapuv0phmg.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Livafin Cream",
+      "Composition": "Amorolfine (0.25% w/w)",
+      "Uses": " Fungal nail infections",
+      "SideEffect": "Blisters on skin Nail disorder Skin irritation Skin rash Erythema skin redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/c4991mkfkiuawbeitjrq.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Losar-A Tablet",
+      "Composition": "Losartan (50mg) + Amlodipine (5mg)",
+      "Uses": " Hypertension (high blood pressure)",
+      "SideEffect": "Sleepiness Ankle swelling Headache Flushing sense of warmth in the face ears neck and trunk Dizziness Palpitations Increased potassium level in blood Fatigue Nausea Edema swelling Abdominal pain Visual disturbance Breathlessness Change in bowel habits Nasal congestion stuffy nose Upper respiratory tract infection",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/271a0423c3ca46d7bd7a5131830bcf6f.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lulitec Cream",
+      "Composition": "Luliconazole (1% w/w)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/g8bxvfohvcavnlvsqq39.jpg",
+      "Manufacturer": "Dermakare Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Long Drive 60mg Tablet",
+      "Composition": "Dapoxetine (60mg)",
+      "Uses": "Treatment of Premature ejaculation",
+      "SideEffect": "Drowsiness Nausea Tremors Vomiting Dizziness Erectile dysfunction Fatigue Headache Increased sweating Indigestion Restlessness Insomnia difficulty in sleeping Eye pain Agitation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/07d04599f7fb4cf499123815beb9d501.jpg",
+      "Manufacturer": "Leeford Healthcare Ltd"
+    },
+    {
+      "Name": "Lesuride OD 75 Tablet",
+      "Composition": "Levosulpiride (75mg)",
+      "Uses": " Gastroesophageal reflux disease (Acid reflux) Irritable bowel syndrome Heartburn",
+      "SideEffect": "Increased prolactin level in blood Extrapyramidal symptoms Weight gain Akathisia inability to stay still Increased liver enzymes Constipation Insomnia difficulty in sleeping Sedation Maculopapular rash",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/lqanhycnmtqttxstlahr.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Levocet-D Tablet",
+      "Composition": "Levocetirizine (5mg) + Phenylephrine (10mg)",
+      "Uses": " Sneezing and runny nose due to allergies",
+      "SideEffect": "Headache Dryness in mouth Nausea Vomiting Tiredness Sleepiness Restlessness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/952cd7a4ddb44f318d16de71ec072a09.jpg",
+      "Manufacturer": "Hetero Drugs Ltd"
+    },
+    {
+      "Name": "Laveta-A Capsule SR",
+      "Composition": "Levocetirizine (5mg) + Ambroxol (75mg)",
+      "Uses": " Cough",
+      "SideEffect": "Upset stomach Dryness in mouth Headache Fatigue Sleepiness Allergic reaction",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/csmtlmyfhhxcj1clotbt.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Levosiz Tablet",
+      "Composition": "Levocetirizine (5mg)",
+      "Uses": "Treatment of Allergic conditions",
+      "SideEffect": "Sleepiness Fatigue Dryness in mouth Headache Vomiting Nasopharyngitis inflammation of the throat and nasal passages",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/jqeifh2gxojd5rabxvkw.jpg",
+      "Manufacturer": "Systopic Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Livoluk Kid Oral Solution",
+      "Composition": "Lactulose (10gm)",
+      "Uses": "Treatment of ConstipationTreatment of Hepatic encephalopathy",
+      "SideEffect": "Abdominal pain Nausea Vomiting Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/xfxq1zzpfuxpvzfweicw.jpg",
+      "Manufacturer": "Panacea Biotec Ltd"
+    },
+    {
+      "Name": "Ldio 1 M 5mg/10mg Tablet",
+      "Composition": "Levocetirizine (5mg) + Montelukast (10mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Hay feverTreatment of Allergic skin conditions",
+      "SideEffect": "Nausea Diarrhea Dryness in mouth Fatigue Headache Skin rash Sleepiness Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/b36b96ffb75f47f2b9253c9a6453763e.jpg",
+      "Manufacturer": "Unison Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "L-Cin Syrup",
+      "Composition": "Levofloxacin (125mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Headache Dizziness Nausea Constipation Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/dkh0hltd9axqqdq9qqe1.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Lizomed 600 Tablet",
+      "Composition": "Linezolid (600mg)",
+      "Uses": "Treatment of Severe bacterial infections",
+      "SideEffect": "Vomiting Headache Nausea Decreased blood cells red cells white cells and platelets Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ky7lot9oesevptxlispi.jpg",
+      "Manufacturer": "Aglowmed Limited"
+    },
+    {
+      "Name": "Larinate 200 Kit Tablet",
+      "Composition": "Artesunate (200mg) + Sulphadoxine (500mg) + Pyrimethamine (25mg)",
+      "Uses": "Treatment of Malaria",
+      "SideEffect": "Nausea Vomiting Diarrhea Feeling of fullness Mouth sore Skin rash Fatigue Headache Dizziness Upset stomach E C G changes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/84a2190546eb44b2ba7c1290e4e86ff4.jpg",
+      "Manufacturer": "Ipca Laboratories Ltd"
+    },
+    {
+      "Name": "Laxit Plus Syrup",
+      "Composition": "Sodium Picosulfate (3.33mg) + Liquid Paraffin (1.25ml) + Milk Of Magnesia (3.75ml)",
+      "Uses": "Treatment of Constipation",
+      "SideEffect": "Diarrhea Stomach pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/fazbqwaybrrlahkcgbw9.jpg",
+      "Manufacturer": "Duckbill Drugs Pvt Ltd"
+    },
+    {
+      "Name": "Livoluk Oral Solution",
+      "Composition": "Lactulose (10gm)",
+      "Uses": "Treatment of ConstipationTreatment of Hepatic encephalopathy",
+      "SideEffect": "Abdominal pain Nausea Vomiting Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jkisxiu7pq4ger8oigzc.jpg",
+      "Manufacturer": "Panacea Biotec Ltd"
+    },
+    {
+      "Name": "Lupi-Fsh 75 Injection",
+      "Composition": "Urofollitropin (75IU)",
+      "Uses": " Female infertility",
+      "SideEffect": "Abdominal pain Headache Bloating Pelvic pain Abdominal cramp Nausea Respiratory disorder Hot flushes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/7e6e45c5c26f4e6aae99b04de323b570.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Lariago Suspension",
+      "Composition": "Chloroquine (50mg)",
+      "Uses": "Treatment of AmoebiasisTreatment of Malaria",
+      "SideEffect": "Upset stomach Photosensitivity Rash Headache Dizziness Vomiting Nausea Stomach pain Loss of appetite Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/v6nqzf6vywt9t3mb4ily.jpg",
+      "Manufacturer": "Ipca Laboratories Ltd"
+    },
+    {
+      "Name": "Locula 10% Eye Drop",
+      "Composition": "Sulphacetamide (10% w/v)",
+      "Uses": "Treatment of Bacterial eye infections",
+      "SideEffect": "Eye irritation Stinging in the eyes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hlofwsnnwwcsb4ocr5vt.jpg",
+      "Manufacturer": "East India Pharmaceutical Works Ltd"
+    },
+    {
+      "Name": "Linid IV 600mg Infusion",
+      "Composition": "Linezolid (600mg)",
+      "Uses": "Treatment of Severe bacterial infections",
+      "SideEffect": "Vomiting Headache Nausea Decreased blood cells red cells white cells and platelets Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/a0cb0398dcc24efab3791964875daa96.jpg",
+      "Manufacturer": "Zydus Cadila"
+    },
+    {
+      "Name": "Lupirtin Capsule",
+      "Composition": "Flupirtine (100mg)",
+      "Uses": " Pain relief",
+      "SideEffect": "Fatigue Dizziness Nausea Dryness in mouth Tremors Heartburn Vomiting Abdominal pain Constipation Loss of appetite Depression Headache Abdominal discomfort Sleep disturbance Increased sweating Restlessness Nervousness Flatulence Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/x3p0l32inctymtl8bquu.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Lidozone  Ear Drop",
+      "Composition": "Lidocaine (1% w/v) + Phenazone (4% w/v)",
+      "Uses": "Treatment of Ear pain",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/416e6e7a-4a62-4152-a547-8020c7d0a9f3.jpeg",
+      "Manufacturer": "Delcure Life Sciences"
+    },
+    {
+      "Name": "L Montus Oral Suspension",
+      "Composition": "Levocetirizine (2.5mg/5ml) + Montelukast (4mg/5ml)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Hay feverTreatment of Allergic skin conditions",
+      "SideEffect": "Rash Nausea Diarrhea Dryness in mouth Fatigue Headache Skin rash Sleepiness Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jotupmhslaeidw0kdwdi.jpg",
+      "Manufacturer": "Fourrts India Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Logidruf Shampoo",
+      "Composition": "Ketoconazole (2% w/v) + Piroctone Olamine (0.5% w/v)",
+      "Uses": "Treatment of Dandruff",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/xmsebvnlg0lyvuyqkehx.jpg",
+      "Manufacturer": "Canixa Life Sciences Pvt"
+    },
+    {
+      "Name": "Lodoz 5 Tablet",
+      "Composition": "Bisoprolol (5mg) + Hydrochlorothiazide (6.25mg)",
+      "Uses": " Hypertension (high blood pressure)",
+      "SideEffect": "Nausea Constipation Fatigue Headache Diarrhea Dizziness Cold extremities Slow heart rate Increased blood uric acid Decreased potassium level in blood Glucose intolerance Altered blood lipid level Decreased magnesium level in blood Increased calcium level in blood",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/gvwkxylmfubby4rul0ri.jpg",
+      "Manufacturer": "Merck Ltd"
+    },
+    {
+      "Name": "Lmwx 60 Injection",
+      "Composition": "Enoxaparin (60mg)",
+      "Uses": "Treatment and prevention of Blood clots",
+      "SideEffect": "Bleeding Headache Low blood platelets Increased liver enzymes Anemia low number of red blood cells Fever Injection site pain Breathing problems Edema swelling Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/8e09a1b08d824b299e2558cd04d966bb.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Lubrifresh Eye Drop",
+      "Composition": "Carboxymethylcellulose (0.5% w/v) + Oxychloro Complex (0.005% w/v)",
+      "Uses": "Treatment of Dry eyes",
+      "SideEffect": "Application site reactions burning irritation itching and redness Blurred vision",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/cdsxiayw9rklzgp1bayx.jpg",
+      "Manufacturer": "Sapient Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "L-Cin 750 Tablet",
+      "Composition": "Levofloxacin (750mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Headache Dizziness Nausea Constipation Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/xdobu39nvl9k6iqmb2vu.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Levacetam 500 Tablet",
+      "Composition": "Levetiracetam (500mg)",
+      "Uses": "Treatment of Epilepsy/Seizures",
+      "SideEffect": "Sleepiness Dizziness Fatigue Headache Decreased appetite Behavioral changes Aggressive behavior Irritation Agitation Nasal congestion stuffy nose Infection Convulsion Nasopharyngitis inflammation of the throat and nasal passages Nausea Tremors Vertigo Lethargy",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/af5ejfvcfgorrbacalkk.jpg",
+      "Manufacturer": "Micro Labs Ltd"
+    },
+    {
+      "Name": "Livcare Syrup",
+      "Composition": "L-Ornithine L-Aspartate (150mg) + Pancreatin (100mg)",
+      "Uses": "Treatment of Indigestion",
+      "SideEffect": "Nausea Stomach pain Bloating Diarrhea Constipation",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/c7f86955acf9459c99b116de9583cc71.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Ludura Cream",
+      "Composition": "Luliconazole (1% w/w)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/lxsdz3xa5hvwe624f0nj.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Lariago 40mg Injection",
+      "Composition": "Chloroquine (40mg)",
+      "Uses": "Treatment of Malaria",
+      "SideEffect": "Weakness Rash Headache Dizziness Vomiting Nausea Stomach pain Loss of appetite Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/januqcs5dv7nhhkpu0cf.jpg",
+      "Manufacturer": "Ipca Laboratories Ltd"
+    },
+    {
+      "Name": "Lobet 20mg Injection",
+      "Composition": "Labetalol (20mg)",
+      "Uses": "Treatment of Hypertensive emergency",
+      "SideEffect": "Dizziness Ejaculation disorder Vomiting Fatigue Impotence Paresthesia tingling or pricking sensation Nausea Indigestion Nasal congestion stuffy nose Edema swelling",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/6d7a26c20627408382784ae317224ff5.jpg",
+      "Manufacturer": "Samarth Life Sciences Pvt Ltd"
+    },
+    {
+      "Name": "Lupase 25000 Tablet",
+      "Composition": "Pancreatin (300mg)",
+      "Uses": "Treatment of Pancreatic enzyme deficiency",
+      "SideEffect": "Stomach pain Bloating Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/22068fdd1aaf41a9b92a30a12985717c.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Lacoset 50 Tablet",
+      "Composition": "Lacosamide (50mg)",
+      "Uses": " Epilepsy/Seizures",
+      "SideEffect": "Dizziness Headache Nausea Sleepiness Vomiting Visual disturbance Dryness in mouth Muscle spasm",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/d5dzvbgtuxwgbpe0pwc0.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lamitor DT 100 Tablet",
+      "Composition": "Lamotrigine (100mg)",
+      "Uses": " Epilepsy/Seizures Bipolar disorder",
+      "SideEffect": "Skin rash Headache Nausea Vomiting Dryness in mouth Insomnia difficulty in sleeping Sleepiness Dizziness Back pain Abdominal pain Blurred vision Double vision Impaired coordination Nasal congestion stuffy nose Infection",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jxqkwobp2l4wglm42ty9.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Levipil 1g Tablet",
+      "Composition": "Levetiracetam (1000mg)",
+      "Uses": "Treatment of Epilepsy/Seizures",
+      "SideEffect": "Sleepiness Dizziness Fatigue Headache Decreased appetite Behavioral changes Aggressive behavior Irritation Agitation Nasal congestion stuffy nose Infection Convulsion Nasopharyngitis inflammation of the throat and nasal passages Nausea Tremors Vertigo Lethargy",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/zmxgijdb7eg0jy34axyp.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lotemox Eye Drop",
+      "Composition": "Loteprednol etabonate (0.5% w/v) + Moxifloxacin (0.5% w/v)",
+      "Uses": "Treatment of Eye infection with inflammation",
+      "SideEffect": "Eye irritation Eye discomfort",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/v32r7qyp337b7o4zidvs.jpg",
+      "Manufacturer": "Optho Pharma Pvt Ltd"
+    },
+    {
+      "Name": "Lulican XL Cream",
+      "Composition": "Luliconazole (1% w/w)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/w91kefzcwtubttvn9gqv.jpg",
+      "Manufacturer": "Glenmark Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lacrimos 0.5% Eye Drop",
+      "Composition": "Carboxymethylcellulose (0.5% w/v) + Oxychloro Complex (0.005% w/v)",
+      "Uses": "Treatment of Dry eyes",
+      "SideEffect": "Application site reactions burning irritation itching and redness Blurred vision",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hiqzbusbwvizfolbmqcx.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Laveta Tablet DT",
+      "Composition": "Levocetirizine (5mg)",
+      "Uses": "Treatment of Allergic conditions",
+      "SideEffect": "Sleepiness Fatigue Dryness in mouth Headache Vomiting Nasopharyngitis inflammation of the throat and nasal passages",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/6422929582154144965756b486709876.jpg",
+      "Manufacturer": "Alembic Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lecet 5mg Tablet",
+      "Composition": "Levocetirizine (5mg)",
+      "Uses": "Treatment of Allergic conditions",
+      "SideEffect": "Sleepiness Fatigue Dryness in mouth Headache Vomiting Nasopharyngitis inflammation of the throat and nasal passages",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/22a8778f97704731b415075bf569d730.jpg",
+      "Manufacturer": "Biochem Pharmaceutical Industries"
+    },
+    {
+      "Name": "Losakind-H Tablet",
+      "Composition": "Losartan (50mg) + Hydrochlorothiazide (12.5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)",
+      "SideEffect": "Nausea Taste change Upset stomach Diarrhea Headache Dizziness Weakness Decreased blood pressure Increased blood uric acid Increased blood lipid level Glucose intolerance Electrolyte imbalance",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/tnfhszmy83fzjc25jew4.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Lobate S Ointment",
+      "Composition": "Clobetasol (0.05% w/w) + Salicylic Acid (3% w/w) + Lactic Acid (3% w/w) + Urea (10% w/w)",
+      "Uses": " Eczema Psoriasis",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/lsowcv0jnhqkxays826p.jpg",
+      "Manufacturer": "Abbott"
+    },
+    {
+      "Name": "Lulifin Cream",
+      "Composition": "Luliconazole (1% w/w)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/gulrqsro9plvyewd5y3j.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lynx Active Gel",
+      "Composition": "Lincomycin (2% w/w)",
+      "Uses": " Acne",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/rm8vswskpkb8irshllev.jpg",
+      "Manufacturer": "Wallace Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Lazine M Tablet",
+      "Composition": "Levocetirizine (5mg) + Montelukast (10mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Hay feverTreatment of Allergic skin conditions",
+      "SideEffect": "Nausea Diarrhea Dryness in mouth Fatigue Headache Skin rash Sleepiness Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/352f0428ae47442ab3eddf7f12750dd6.jpg",
+      "Manufacturer": "Hetero Drugs Ltd"
+    },
+    {
+      "Name": "Levolin 100mcg Rotacap",
+      "Composition": "Levosalbutamol (100mcg)",
+      "Uses": " Chronic obstructive pulmonary disease (COPD)Treatment of Asthma",
+      "SideEffect": "Accidental injury Bronchitis inflammation of the airways Dizziness Pain Pharyngitis Nasal congestion stuffy nose Vomiting Chest pain Palpitations Sore throat Tremors",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/gg5aaz03dqjazjx5uu7e.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Labmox 250mg Capsule",
+      "Composition": "Amoxycillin (250mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Nausea Diarrhea Skin rash Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/95c99a27c2224d53afc16775a225123a.jpg",
+      "Manufacturer": "Laborate Pharmaceuticals India Ltd"
+    },
+    {
+      "Name": "Levera 750 Tablet",
+      "Composition": "Levetiracetam (750mg)",
+      "Uses": "Treatment of Epilepsy/Seizures",
+      "SideEffect": "Sleepiness Dizziness Fatigue Headache Decreased appetite Behavioral changes Aggressive behavior Irritation Agitation Nasal congestion stuffy nose Infection Convulsion Nasopharyngitis inflammation of the throat and nasal passages Nausea Tremors Vertigo Lethargy",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/pvkr3a6utlnv4hrfehol.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lutiderm Cream",
+      "Composition": "Fluticasone Propionate (0.05% w/w)",
+      "Uses": "Treatment of Skin conditions with inflammation & itching",
+      "SideEffect": "Application site reactions burning irritation itching and redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/glx9gs7lb1o9mj5mzndv.jpg",
+      "Manufacturer": "Canixa Life Sciences Pvt"
+    },
+    {
+      "Name": "Levazeo 25 Tablet",
+      "Composition": "Levosulpiride (25mg)",
+      "Uses": " Gastroesophageal reflux disease (Acid reflux) Irritable bowel syndrome Heartburn",
+      "SideEffect": "Increased prolactin level in blood Extrapyramidal symptoms Weight gain Akathisia inability to stay still Increased liver enzymes Constipation Insomnia difficulty in sleeping Sedation Maculopapular rash",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/uk1srnczouatekcz0mlr.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Looz Peg Oral Solution Orange",
+      "Composition": "Polyethylene Glycol (13.125gm)",
+      "Uses": " Constipation Intestine preparation before any surgery",
+      "SideEffect": "Stomach pain Nausea Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/hapayvdj4wyy3zih8eif.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lubrijoint Pro Tablet",
+      "Composition": "Diacerein (50mg) + Glucosamine Sulfate Potassium Chloride (750mg) + Methyl Sulfonyl Methane (250mg)",
+      "Uses": " Osteoarthritis",
+      "SideEffect": "Nausea Diarrhea Constipation Indigestion Heartburn Urine discoloration",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jo6dycuv6bytrlzgutzu.jpg",
+      "Manufacturer": "Wallace Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Levokast Tablet",
+      "Composition": "Levocetirizine (5mg) + Montelukast (10mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Hay feverTreatment of Allergic skin conditions",
+      "SideEffect": "Nausea Diarrhea Dryness in mouth Fatigue Headache Skin rash Sleepiness Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/fe3f984cf4704185b2cdbd9f7f09e6f1.jpg",
+      "Manufacturer": "TTK Healthcare Ltd"
+    },
+    {
+      "Name": "Lipikind 40 Tablet",
+      "Composition": "Atorvastatin (40mg)",
+      "Uses": " High cholesterolPrevention of Heart attack",
+      "SideEffect": "Dyspepsia Abdominal pain Indigestion Diarrhea Joint pain Nasopharyngitis inflammation of the throat and nasal passages Nausea Pain in extremities Urinary tract infection Abnormal liver function tests",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ndi65sgyurqlhfqbidht.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Linospan 600 Tablet",
+      "Composition": "Linezolid (600mg)",
+      "Uses": "Treatment of Severe bacterial infections",
+      "SideEffect": "Vomiting Headache Nausea Decreased blood cells red cells white cells and platelets Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/06c23b0f439f422fbdd967934fd6fdd6.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Lumerax 40mg/240mg Tablet",
+      "Composition": "Artemether (40mg) + Lumefantrine (240mg)",
+      "Uses": "Treatment of Malaria",
+      "SideEffect": "Headache Loss of appetite Dizziness Weakness Joint pain Muscle pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/36e51dea92494f0f99752034eb7d9734.jpg",
+      "Manufacturer": "Ipca Laboratories Ltd"
+    },
+    {
+      "Name": "Loratin 10mg Tablet",
+      "Composition": "Loratadine (10mg)",
+      "Uses": "Treatment of Allergic conditions",
+      "SideEffect": "Sleepiness Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/7cffe6b6857149078add27bbfdcc7094.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Lonitab 5 Tablet",
+      "Composition": "Minoxidil (5mg)",
+      "Uses": "Treatment of Hypertension (high blood pressure)",
+      "SideEffect": "Hypotension low blood pressure Headache Hypertrichosis excessive hair growth Weight gain Tachycardia Decreased white blood cell count E C G changes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/o35byjtegpvkzbmsioht.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lamitor DT 50 Tablet",
+      "Composition": "Lamotrigine (50mg)",
+      "Uses": " Epilepsy/Seizures Bipolar disorder",
+      "SideEffect": "Skin rash Headache Nausea Vomiting Dryness in mouth Insomnia difficulty in sleeping Sleepiness Dizziness Back pain Abdominal pain Blurred vision Double vision Impaired coordination Nasal congestion stuffy nose Infection",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/pptzxe2ybmqh6apcojti.jpg",
+      "Manufacturer": "Torrent Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lupilyzer Oral Solution",
+      "Composition": "Magnesium Citrate (375mg/5ml) + Potassium Citrate (1100mg/5ml)",
+      "Uses": " Kidney stone",
+      "SideEffect": "Diarrhea Nausea Vomiting Stomach pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ugpzlxs8qrecu5y15r6n.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Lactifiber  Granules",
+      "Composition": "Lactitol (10gm) + Ispaghula (3.5gm)",
+      "Uses": "Treatment of Constipation",
+      "SideEffect": "Bloating Stomach cramp Flatulence",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/zxvuxpzuhxve6zrww2t9.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lipitas 10 Tablet",
+      "Composition": "Rosuvastatin (10mg)",
+      "Uses": "Treatment of High cholesterol Prevention of heart attack and stroke",
+      "SideEffect": "Muscle pain Weakness Headache Abdominal pain Dizziness Joint pain Nausea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/mejkbdfpetkxzmxov5mq.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lupride Depot 22.5mg Injection",
+      "Composition": "Leuprolide (22.5mg)",
+      "Uses": "Treatment of Prostate cancerTreatment of EndometriosisTreatment of Uterine fibroidsTreatment of Precocious puberty (premature puberty)",
+      "SideEffect": "Decreased libido Testicular atrophy Increased sweating Fatigue Muscle weakness Erectile dysfunction Bone pain Injection site reaction Hot flashes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/eed726c329c5423f9d5613e8521ce246.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Latoprost Eye Drop",
+      "Composition": "Latanoprost (0.005% w/v)",
+      "Uses": " Glaucoma Ocular hypertension",
+      "SideEffect": "Eyelash changes Eye pain Increased sensitivity to light Burning sensation in eye Eye itching Foreign body sensation Itching Stinging in the eyes Conjunctival hyperemia",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ssu4ihs1p4p7ar8l83fw.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lupride Depot 11.25mg Injection",
+      "Composition": "Leuprolide (11.25mg)",
+      "Uses": "Treatment of Prostate cancerTreatment of EndometriosisTreatment of Uterine fibroidsTreatment of Precocious puberty (premature puberty)",
+      "SideEffect": "Decreased libido Testicular atrophy Increased sweating Fatigue Muscle weakness Erectile dysfunction Bone pain Injection site reaction Hot flashes",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/ro79wsvzld3muq44qwvw.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lasma LC Tablet",
+      "Composition": "Levocetirizine (5mg) + Montelukast (10mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Hay feverTreatment of Allergic skin conditions",
+      "SideEffect": "Nausea Diarrhea Dryness in mouth Fatigue Headache Skin rash Sleepiness Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ifs5qb7xybyfimcgtcxp.jpg",
+      "Manufacturer": "Apex Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Lasma LC Tablet",
+      "Composition": "Levocetirizine (5mg) + Montelukast (10mg)",
+      "Uses": "Treatment of Sneezing and runny nose due to allergiesTreatment of Hay feverTreatment of Allergic skin conditions",
+      "SideEffect": "Nausea Diarrhea Dryness in mouth Fatigue Headache Skin rash Sleepiness Vomiting",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/ifs5qb7xybyfimcgtcxp.jpg",
+      "Manufacturer": "Apex Laboratories Pvt Ltd"
+    },
+    {
+      "Name": "Low-Dex Eye Drops",
+      "Composition": "Dexamethasone (0.05% w/v)",
+      "Uses": " Eye infectionTreatment of Inflammatory conditionsTreatment of Autoimmune conditions",
+      "SideEffect": "Eye irritation Bitter taste",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/uobmrsjp1xqtfa8gwgku.jpg",
+      "Manufacturer": "Syntho Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Lumet 80 Tablet",
+      "Composition": "Artemether (80mg) + Lumefantrine (480mg)",
+      "Uses": "Treatment of Malaria",
+      "SideEffect": "Headache Loss of appetite Dizziness Weakness Joint pain Muscle pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/3f5d6e84a87240f986e17141e29e4c0d.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Lipicure Gold 40 Capsule",
+      "Composition": "Aspirin (75mg) + Atorvastatin (40mg) + Clopidogrel (75mg)",
+      "Uses": "Prevention of Heart attack",
+      "SideEffect": "Increased bleeding tendency Abdominal pain Indigestion Bruise Nosebleeds Gastrointestinal bleeding Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/qs6gwmu2dmockvo3ksg1.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Letrohope 2.5 Tablet",
+      "Composition": "Letrozole (2.5mg)",
+      "Uses": "Treatment of Breast cancerTreatment of Infertility due to anovulation",
+      "SideEffect": "Fatigue Hypercholesterolemia high cholesterol Increased sweating Hot flashes Bone pain Dizziness Joint pain Edema swelling Flushing sense of warmth in the face ears neck and trunk",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/uugd3ytkawk1xtaw6ov1.jpg",
+      "Manufacturer": "Mankind Pharma Ltd"
+    },
+    {
+      "Name": "Levolin 1 Tablet",
+      "Composition": "Levosalbutamol (1mg)",
+      "Uses": "Treatment of Chronic obstructive pulmonary disease (COPD)",
+      "SideEffect": "Tremors Headache Palpitations Increased heart rate Muscle cramp",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/czdyovbsgbzqbjnmzaca.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Loceryl Cream",
+      "Composition": "Amorolfine (0.25% w/w)",
+      "Uses": " Fungal nail infections",
+      "SideEffect": "Blisters on skin Nail disorder Skin irritation Skin rash Erythema skin redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/wlmgai4qm0wlkthavvrh.jpg",
+      "Manufacturer": "Galderma India Pvt Ltd"
+    },
+    {
+      "Name": "Levera 250 Tablet",
+      "Composition": "Levetiracetam (250mg)",
+      "Uses": "Treatment of Epilepsy/Seizures",
+      "SideEffect": "Sleepiness Dizziness Fatigue Headache Decreased appetite Behavioral changes Aggressive behavior Irritation Agitation Nasal congestion stuffy nose Infection Convulsion Nasopharyngitis inflammation of the throat and nasal passages Nausea Tremors Vertigo Lethargy",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/vpyrfolbr3mz6lcpanze.jpg",
+      "Manufacturer": "Intas Pharmaceuticals Ltd"
+    },
+    {
+      "Name": "Lulifin Cream",
+      "Composition": "Luliconazole (1% w/w)",
+      "Uses": "Treatment of Fungal skin infections",
+      "SideEffect": "Application site reactions burning irritation itching and redness Dry skin Skin peeling Blisters on skin",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/n1ruxy0ci6gzbtz6xiqg.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lox 2% Injection",
+      "Composition": "Lidocaine (2%)",
+      "Uses": " Local anesthesia (Numb tissues in a specific area)",
+      "SideEffect": "Injection site reactions pain swelling redness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/5d38e7a566904c599e6ff311cc42c412.jpg",
+      "Manufacturer": "Neon Laboratories Ltd"
+    },
+    {
+      "Name": "Lupin Mira 25 Tablet ER",
+      "Composition": "Mirabegron (25mg)",
+      "Uses": "Treatment of Overactive bladder (OAB) symptoms",
+      "SideEffect": "Constipation Headache High blood pressure Nasal inflammation Urinary tract infection Fast heart rate Joint pain",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/smqdmnoldwwjxdt9lzfm.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "LCF LS Syrup",
+      "Composition": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/tmgjkfso67lzujfmoefb.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Lubrijoint Activ Tablet",
+      "Composition": "Glucosamine (500mg) + Chondroitin (400mg)",
+      "Uses": " Osteoarthritis",
+      "SideEffect": "Nausea Diarrhea Constipation Heartburn",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/icgg242nadv5xye59g5q.jpg",
+      "Manufacturer": "Wallace Pharmaceuticals Pvt Ltd"
+    },
+    {
+      "Name": "Lipocut 120 Capsule",
+      "Composition": "Orlistat (120mg)",
+      "Uses": " Obesity",
+      "SideEffect": "Fat in stool Bowel incontinence Flatus with discharge Oily spotting Increased urge to pass bowels Oily evacuation Increased bowel movements",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/wprlwuvppejqahjg0jk8.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Loxof 750mg Tablet",
+      "Composition": "Levofloxacin (750mg)",
+      "Uses": "Treatment of Bacterial infections",
+      "SideEffect": "Headache Dizziness Nausea Constipation Diarrhea",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/myyoac6ygqeers32ahp8.jpg",
+      "Manufacturer": "Sun Pharmaceutical Industries Ltd"
+    },
+    {
+      "Name": "Lupisoz-D Capsule SR",
+      "Composition": "Domperidone (30mg) + Esomeprazole (40mg)",
+      "Uses": "Treatment of Gastroesophageal reflux disease (Acid reflux)Treatment of Functional dyspepsia",
+      "SideEffect": "Diarrhea Flatulence Stomach pain Dryness in mouth Headache",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/lttoxcnmzrx9xcrl85nz.jpg",
+      "Manufacturer": "Lupin Ltd"
+    },
+    {
+      "Name": "Levorid D Tablet",
+      "Composition": "Levocetirizine (2.5mg) + Phenylephrine (10mg)",
+      "Uses": " Sneezing and runny nose due to allergies",
+      "SideEffect": "Headache Dryness in mouth Nausea Vomiting Tiredness Sleepiness Restlessness",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/cropped/jzwnanwswyjsendd8b5c.jpg",
+      "Manufacturer": "Cipla Ltd"
+    },
+    {
+      "Name": "Levolin Plus Jr Expectorant",
+      "Composition": "Ambroxol (15mg) + Levosalbutamol (0.5mg) + Guaifenesin (50mg)",
+      "Uses": "Treatment of Cough with mucus",
+      "SideEffect": "Nausea Vomiting Diarrhea Upset stomach Stomach pain Allergic reaction Dizziness Headache Rash Hives Tremors Palpitations Muscle cramp Increased heart rate",
+      "Image": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/30f8e9448ad94b889c62bd9310d55612.jpg",
+      "Manufacturer": "Cipla Ltd"
+    }
+  ]
+}
