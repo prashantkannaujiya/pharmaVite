@@ -9,14 +9,14 @@ function HomeCard() {
     const navigate=useNavigate()
     return (
         <div>
-            <div className=" mb-5 " style={{marginTop:'18vh'}}>
-                <h3 className='text-center mt-5 fw-bold h4 mb-5' style={{fontFamily:'Lato'}}>Shop By Category</h3>
-                <div className="row w-100 mx-auto justify-content-md-center text-center justify-content-start" id="cardHome" style={{fontFamily:'Lato'}}>
-                    <div className="col-md-2 col-6 mb-1 ">
+            <div className=" mb-5 " style={{marginTop:'17vh'}}>
+                <h3 className='text-center mt-5 fw-  mb-3 subHeading'>Shop By Category</h3>
+                <div className="row w-100 mx-auto justify-content-md-center text-center mt-3 justify-content-start" id="cardHome" style={{fontFamily:'Lato'}}>
+                    <div className="col-md-2 col-6 mb-1 border-0">
                         <Link to={'/category'} state='mineral' style={{textDecoration:'none'}}>
                         <div className="card  border-0 border ">
                             <div className="card-header w-auto border-0 p-1 bg-white text-center  text-dark" >
-                                <img className="card-img-top"  src="https://fytika.com/cdn/shop/files/FytikaVita365ListingImages_New30Tablets_3.jpg?v=1717785704&width=1946" />
+                                <img className="card-img-top"  src="https://herbalifeindia.in/wp-content/uploads/2023/02/Multivitamin-Mineral-1.jpg" />
                                 {/* <GiMedicines size={68} /> */}
                             </div>
                             <div className="card-body  text-center">
@@ -31,7 +31,7 @@ function HomeCard() {
                         <Link to='/category' state='supplement' style={{textDecoration:'none'}} >
                         <div className="card border-0 ">
                             <div className="card-header w-auto bg-white border-0 p-1 text-dark">
-                                <img className="card-img-top" src="https://www.verywellhealth.com/thmb/n7XK0aYiIpk1RZV2eC9vmz1Ept0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/best-vitamins-and-supplements-for-skin-health-tout-0fc0a9fb953e45118e7c0fce71815715.jpg" />
+                                <img className="card-img-top" src="https://www.thehimalayanorganics.in/cdn/shop/files/GIMainImage_6.jpg?v=1684134259&width=533" />
                                 {/* <FaPrescriptionBottle size={68} /> */}
                             </div>
                             <div className="card-body  text-center">
@@ -46,7 +46,7 @@ function HomeCard() {
                         <Link to='/category' state='diet' style={{textDecoration:'none'}}>
                         <div className="card border-0 ">
                             <div className="card-header w-auto   border-0 p-1  text-white " >
-                                <img className="card-img-top" src="https://images.ctfassets.net/222znibi5gto/ew_wysiwyg_fid4662_asset/98a07df4f09600dacdcad1b6bfd84b82/DietarySupplements_89896295_M.jpg" />
+                                <img className="card-img-top" src="https://herbalifeindia.in/wp-content/uploads/2023/02/herbalife-formula-1-kulfi-weight-loss-combo.jpg" />
                                 {/* <BsCupHotFill  size={68}/> */}
                             </div>
                             <div className="card-body  text-center">
@@ -77,7 +77,7 @@ function HomeCard() {
                         <Link to='/category' state='diet' style={{textDecoration:'none'}}>
                         <div className="card border-0 ">
                             <div className="card-header w-auto   border-0 p-1  text-white " >
-                                <img className="card-img-top" src="https://5.imimg.com/data5/SELLER/Default/2020/9/SF/DZ/FH/8260150/sports-supplements-500x500.jpg" />
+                                <img className="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHbHLcmj9jPaHCDHvtUabb5EFIrYo0EP-rA&s" />
                                 {/* <BsCupHotFill  size={68}/> */}
                             </div>
                             <div className="card-body  text-center">
@@ -89,12 +89,12 @@ function HomeCard() {
                        
                     </div>
 
-                    <div className="col-md-2 col-6 mb-1">
+                   <div className="col-md-2 col-6 mb-1">
                         <Link to='/category' state='health' style={{textDecoration:'none'}}>
                         <div className="card border-0">
                             <div className="card-header w-auto bg-white border-0 p-1 text-dark">
-                                <img className="card-img-top" src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/HPC/Coop/JulySVD/Zandu_750x375.jpg" />
-                                {/* <GiHeartPlus  size={68}/> */}
+                                <img className="card-img-top" src="https://www.who.int/images/default-source/wpro/countries/viet-nam/health-topics/thuoc-thiet-yeu.tmb-1024v.jpg?Culture=en&sfvrsn=a0b4a101_16" />
+
                             </div>
                             <div className="card-body text-center ">
                             Health
@@ -103,7 +103,7 @@ function HomeCard() {
                         </Link>
                        
                        
-                    </div>
+                    </div> 
                 </div>
             </div>
         </div>

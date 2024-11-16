@@ -57,10 +57,10 @@ function Home() {
             <CarouselCaption>
               <h1>100% Authentic pills Guaranteed</h1>
             </CarouselCaption>
-            <img style={{height:'450px',width:'100%'}} src={'https://hips.hearstapps.com/hmg-prod/images/fresh-sliced-mini-kiwis-royalty-free-image-1690215764.jpg'}/>
+            <img style={{height:'450px',width:'100%',objectFit:'cover'}} className="img-fluid" src={'https://blog.acharya.ac.in/wp-content/uploads/2023/05/pharmacy.jpg'}/>
           </CarouselItem>
           <CarouselItem>
-            <img style={{height:'450px',width:'100%'}} src="https://medlineplus.gov/images/CellsAndDNA_Share.jpg"/>
+            <img style={{height:'450px',width:'100%'}} src="https://www.who.int/images/default-source/wpro/countries/viet-nam/health-topics/thuoc-thiet-yeu.tmb-1024v.jpg?Culture=en&sfvrsn=a0b4a101_16"/>
           </CarouselItem>
         </Carousel>
       </div>
@@ -70,9 +70,9 @@ function Home() {
         <p className="fs-3  m-0 pt-5 ms-5">Stay Safe</p>
         <p className="fs-3  ms-5">Wear a Mask</p>
       </div>
-      <h3 className="text-center fw-bold h4" style={{fontFamily:'Lato'}}>Top Selling Products</h3>
-      <div className="h6 text-center" style={{fontFamily:'Lato'}}>100% Authentic Products Guaranteed</div>
-      <div className="row w-100 justify-content-center mt-4 mb- mx-auto" style={{marginBottom:"20vh"}}>
+      <h3 className="text-whte fw-bol   subHeading" >Top Selling Products</h3>
+      {/* <div className="h6 text-center" style={{fontFamily:'Lato'}}>100% Authentic Products Guaranteed</div> */}
+      <div className="row w-100 justify-content-center mt-1 mb- mx-auto" style={{marginBottom:"20vh"}}>
         {data
           .filter((a, i) => {
             if (i < 5) return a;

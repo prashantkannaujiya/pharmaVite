@@ -41,13 +41,13 @@ u.user ? '' : navigate('/login')
                 </div>
               </li>
               <li className="navbar-item mx-2 fs-4">
-                <Link style={{textDecoration:'none',color:'black'}} to={'/cart'}>
+                <Link style={{textDecoration:'none',color:'white'}} to={'/cart'}>
                 <i className="bi bi-bag" ></i><small className="cartNum rounded-circle fw-bold  bg-danger text-white">{c.cart.length}</small>
               
                 </Link>
                </li>
               <li className="navbar-item mx-2 fs-4" onClick={userDetail}>
-              <Link style={{textDecoration:'none',color:'black'}} to={userDetail}><i class="bi bi-person"></i></Link>
+              <Link style={{textDecoration:'none',color:'white'}} to={userDetail}><i class="bi bi-person"></i></Link>
               </li>
             </ul>
           </div>
