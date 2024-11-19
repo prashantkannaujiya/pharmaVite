@@ -11,7 +11,7 @@ function HomeCard() {
         <div>
             <div className=" mb-5 " style={{marginTop:'17vh'}}>
                 <h3 className='text-center mt-5 fw-  mb-3 subHeading'>Shop By Category</h3>
-                <div className="row w-100 mx-auto justify-content-md-center text-center mt-3 justify-content-start" id="cardHome" style={{fontFamily:'Lato'}}>
+                <div className="row w-100 mx-auto justify-content-md-center  text-center mt-3 justify-content-start" id="cardHome" style={{fontFamily:'Lato'}}>
                     <div className="col-md-2 col-6 mb-1 border-0">
                         <Link to={'/category'} state='mineral' style={{textDecoration:'none'}}>
                         <div className="card  border-0 border ">

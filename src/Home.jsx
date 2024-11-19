@@ -66,13 +66,13 @@ function Home() {
       </div>
       <HomeCard></HomeCard>
 
-      <div className="covidBanner mx-auto border-light border" style={{fontFamily:'Lato'}}>
-        <p className="fs-3  m-0 pt-5 ms-5">Stay Safe</p>
-        <p className="fs-3  ms-5">Wear a Mask</p>
+      <div className="covidBanner mx-auto border-light fw-bold text-white border" style={{fontFamily:'Lato'}}>
+        <p className="display-1 fw-bold m-0 pt-5 mt-5 ms-5">Stay Safe</p>
+        <p className="display-1 fw-bold  ms-5">Wear a Mask</p>
       </div>
       <h3 className="text-whte fw-bol   subHeading" >Top Selling Products</h3>
       {/* <div className="h6 text-center" style={{fontFamily:'Lato'}}>100% Authentic Products Guaranteed</div> */}
-      <div className="row w-100 justify-content-center mt-1 mb- mx-auto" style={{marginBottom:"20vh"}}>
+      <div className="row w-100 justify-content-center bg-lig mt-1 mb- mx-auto" style={{marginBottom:"20vh"}}>
         {data
           .filter((a, i) => {
             if (i < 5) return a;

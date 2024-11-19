@@ -20,7 +20,7 @@ font-family: Lato, sans-serif;
   text-align: center;
 }
 .cartel{
-  width:75%;
+  width:auto;
 }
 .quantity span{
 position: relative;

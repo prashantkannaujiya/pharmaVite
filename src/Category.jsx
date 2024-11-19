@@ -41,7 +41,7 @@ console.log(c.cart)
 }
     return(
         <div className="containe  mx-2" style={{fontFamily:'Lato'}}>
-            <div className="bg-dark text-light mt-3 mb-2 mx-auto px-1 fs-5 " ><span className="text-uppercase">{location.state}</span> : Showing {list.length} products</div>
+            <div className=" text-center mt-5 mb-2 mx-auto px-1 fs-5 " style={{backgroundImage:'lineargradient(to right, black,white)',fontFamily:'Lato'}} ><span className="text-uppercase">{location.state}</span> : Showing {list.length} products</div>
           <div className=" d-md-flex">  
             <div className="w-25">
                 <SideBar></SideBar>
@@ -51,7 +51,7 @@ console.log(c.cart)
 {
 list.length!=0 && list.map((a)=>{
    return  <div className="col-md-3 mb-3">
-         <div className='card border-0 shadow p-0 '>
+         <div className='card border-0 shado p-0 '>
             <img src={a.IMAGE} className='card-img-top w-50 mx-auto mt-1' style={{height:'25vh'}}/>
           
             

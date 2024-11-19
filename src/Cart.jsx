@@ -120,11 +120,11 @@ const Cart = () => {
           })}
         
       
-      <div className="mx-auto text-end text-secondary border-top border-bottom p-2 w-75 bg-light fw-bold">
+      <div className="mx-auto text-end text-secondary border-top border-bottom p-2 w-100 bg-light fw-">
         Subtotal : <i className="bi bi-currency-rupee"></i> {sum}
       </div>
       </div>
-      <div className="container w-75 mt-0 text-start mx-auto">
+      <div className="container w-auto mt-0 text-start mx-auto">
         <Link to={"/"} style={{ textDecoration: "none" }}>
           Continue Shopping
         </Link>
