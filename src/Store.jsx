@@ -76,7 +76,7 @@ function Store() {
         </ul>
       </div>
 
-      <div className='row row-cols-3 w-auto mt-2 justify-content-center'>
+      <div className='row row-cols-3 w-auto mt-2 justify-content-center'  style={{fontFamily:'"Lato",sans-serif'}}>
         {list.length > 0 ? list.map((a, index) => (
           <div className='col-4 h-auto mb-4' key={index}>
             <div className='card border-0 shad p-0'>

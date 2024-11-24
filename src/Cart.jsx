@@ -55,7 +55,7 @@ const Cart = () => {
     window.localStorage.setItem("cartlist", JSON.stringify(c.cart));
   }
   return (
-    <div className="container">
+    <div className="container"  style={{fontFamily:'"Lato",sans-serif'}}>
       
        
         <div className="container-fluid mt-3 mb-3">

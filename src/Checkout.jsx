@@ -16,12 +16,22 @@ function Checkout() {
     });
     setsum(s);
   }, [c.cart]);
-  const placeOrder=()=>{
-    alert(customer)
+  const placeOrder=(ev)=>{
+    console.log('in placeorder')
+    ev.preventDefault();
+    for(let key in customer)
+    {
+      if(customer[key]=='')
+      {
+        alert('Input all required fields')
+        break;
+      }
+    }
+    // alert(customer)
   }
   return (
-    <div className="productDisplay container text-center mb-5" style={{fontFamily:'Lato'}}>
-      <h3 className="text-secondary  mt-3 text-start mb-5" style={{fontFamily:'Lato'}}>
+    <div className="productDisplay container text-center mb-5"  style={{fontFamily:'"Lato",sans-serif'}}>
+      <h3 className="text-secondary  mt-3 text-start mb-5" >
         Preview your order and Pay
       </h3>
       <div className="d-md-flex mb-4">
@@ -37,7 +47,7 @@ function Checkout() {
                 placeholder="email"
                 className="form-control m-1"
                 onChange={(e)=>{setcustomer({...customer,email:e.target.value})}}
-                required
+                
               />
               <input type="checkbox" className="form-check-input m-1" />
               <label className="form-check-label m-1 pb-5">
@@ -53,7 +63,7 @@ function Checkout() {
                   className=" form-control "
                   placeholder="First Name"
                   onChange={(e)=>{setcustomer({...customer,name:e.target.value})}}
-                  required
+                 
                 />
               </div>
               <div className="col ">
@@ -62,7 +72,7 @@ function Checkout() {
                   className=" form-control "
                   placeholder="Last Name"
                   onChange={(e)=>{setcustomer({...customer,lastname:e.target.value})}}
-                  required
+                
                 />
               </div>
             </div>
@@ -73,7 +83,7 @@ function Checkout() {
                 className="form-control "
                 placeholder="Address"
                 onChange={(e)=>{setcustomer({...customer,address:e.target.value})}}
-                required
+             
               />{" "}
             </div>
             <div className="row ">
@@ -83,7 +93,7 @@ function Checkout() {
                   className="form-control"
                   placeholder="City"
                   onChange={(e)=>{setcustomer({...customer,city:e.target.value})}}
-                  required
+                
                 />
               </div>
               <div className="col">
@@ -92,7 +102,7 @@ function Checkout() {
                   className="form-control"
                   placeholder="State"
                   onChange={(e)=>{setcustomer({...customer,state:e.target.value})}}
-                  required
+                
                 />
               </div>
               <div className="col">
@@ -101,7 +111,7 @@ function Checkout() {
                   className="form-control"
                   placeholder="Pin Code"
                   onChange={(e)=>{setcustomer({...customer,pin:e.target.value})}}
-                  required
+              
                 />
               </div>
             </div>
@@ -139,7 +149,7 @@ function Checkout() {
           </p>
         </div>
       </div>
-      <button className="btn btn-success"  form="form1" onSubmit={placeOrder}>Confirm Order & Book</button>
+      <button className="btn btn-success"  onClick={(e)=>{placeOrder(e)}}>Confirm Order & Book</button>
     </div>
   );
 }
