@@ -70,20 +70,20 @@ function Home() {
         <p className="display-1 fw-bold m-0 pt-5 mt-5 ms-5">Stay Safe</p>
         <p className="display-1 fw-bold  ms-5">Wear a Mask</p>
       </div>
-      <h3 className="text-whte fw-bol   subHeading" >Top Selling Products</h3>
+      <h3 className="text-whte fw-  subHeading" >Top Selling Products</h3>
       {/* <div className="h6 text-center" style={{fontFamily:'Lato'}}>100% Authentic Products Guaranteed</div> */}
-      <div className="row w-100 justify-content-center bg-lig mt-1 mb- mx-auto" style={{marginBottom:"20vh"}}>
+      <div className="row w-100 justify-content-around bg-liht mt-1 mb- mx-auto py-" style={{marginBottom:"20vh"}}>
         {data
           .filter((a, i) => {
             if (i < 5) return a;
           })
           .map((a, i) => {
             return (
-              <div className="col-lg-2 m-1 mx-3" style={{fontFamily:'Lato,sans-serif'}}>
+              <div className="col-lg-2 m-  mx- w-aut" style={{fontFamily:'Lato,sans-serif'}}>
                 <Link style={{ textDecoration: "none" }}>
-                  <div className="card w-100 border-0 shado">
+                  <div className="card  w-100 border-0 shado">
                     <div className="card-header text-center bg-white border-0 w-100">
-                      <img className="image-fluid" style={{height:'25vh',width:'50%'}} src={data[i].IMAGE} />
+                      <img className="image-fluid" style={{height:'25vh',width:'70%'}} src={data[i].IMAGE} />
                     </div>
                     <div className="card-body fs-5 text-center">
                       <p>{data[i].NAME}</p>

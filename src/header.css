@@ -4,9 +4,9 @@
   src: url('./Vogue.ttf');
 }
 .head{
-    position:sticky;
-    top:0;
-    z-index:  1;
+    /* position:sticky; */
+    /* top:0; */
+    /* z-index:  1; */
 background-image: linear-gradient(to top,rgb(32, 32, 32),rgb(61, 61, 61));
 
   }
@@ -31,4 +31,8 @@ background-image: linear-gradient(to top,rgb(32, 32, 32),rgb(61, 61, 61));
 position: static;
    }
   }
-  
+  .subh{
+    position: sticky;
+    top:0;
+    z-index: 1;
+  }

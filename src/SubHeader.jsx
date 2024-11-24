@@ -1,10 +1,11 @@
 import { Link, useNavigate } from "react-router-dom"
+import './header.css'
 function SubHeader(){
    const navigate=useNavigate();
   
     return(
-<div className="text-light fw-normal" style={{fontSize:'16px',fontFamily:'Lato'}}>
-    <nav className="navbar navbar-expand-lg bg-light  ">
+<div className=" " style={{fontSize:'16px',fontFamily:'Lato'}}>
+    <nav className="navbar navbar-expand-lg bg-light subh ">
       
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#subHead"  aria-label="Toggle navigation">
       <i class="bi bi-list"></i>

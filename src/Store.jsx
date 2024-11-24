@@ -78,8 +78,8 @@ function Store() {
 
       <div className='row row-cols-3 w-auto mt-2 justify-content-center'>
         {list.length > 0 ? list.map((a, index) => (
-          <div className='col-3 h-auto mb-4' key={index}>
-            <div className='card border-0 shadow p-0'>
+          <div className='col-4 h-auto mb-4' key={index}>
+            <div className='card border-0 shad p-0'>
               <img
                 src={a.Image}
                 className='card-img-top w-50 mx-auto mt-1'

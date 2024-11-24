@@ -9,8 +9,8 @@ height:25vh;
     margin:auto;
     font-weight: bold;
     background-attachment: fixed;
-    margin-top:10vh;
-    margin-bottom:15vh;
+    margin-top:9vh;
+    margin-bottom:9vh;
     /* background-image: url('https://pharmacare.qodeinteractive.com/wp-content/uploads/2021/03/H-2-banner-img-3.jpg'); */
 background-image: url('https://healthmatters.nyp.org/wp-content/uploads/2024/08/do-i-need-to-wear-a-mask-hero.jpg');
 }
@@ -39,5 +39,5 @@ border-radius: 3px;
 }
 #carousel{
     position: relative;
-    z-index: -1;
+    z-index: 0;
 }
