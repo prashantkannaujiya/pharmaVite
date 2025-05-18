@@ -4,8 +4,6 @@ import data from "./productDatabase";
 import { Link, useNavigate } from "react-router-dom";
 import { useContext } from "react";
 import { userCart } from "./App";
-
-
 import { CarouselItem,Carousel, CarouselCaption } from "react-bootstrap";
 function Home() {
   const c = useContext(userCart);
@@ -66,33 +64,33 @@ function Home() {
       </div>
       <HomeCard></HomeCard>
 
-      <div className="covidBanner mx-auto border-light fw-bold text-white border" style={{fontFamily:'"Lato",sans-serif'}}>
+      <div className="covidBanner mx-auto border-light fw-bold text-white border " >
         <p className="display-1 fw-bold m-0 pt-5 mt-5 ms-5">Stay Safe</p>
         <p className="display-1 fw-bold  ms-5">Wear a Mask</p>
       </div>
-      <h3 className="text-whte fw-  subHeading"  style={{fontFamily:'"Arial",sans-serif'}}>Top Selling Products</h3>
+      <h3 className="text-whte fw- mb-4 h subHeading"  >Top Selling Products</h3>
       {/* <div className="h6 text-center" style={{fontFamily:'Lato'}}>100% Authentic Products Guaranteed</div> */}
-      <div className="row w-100 justify-content-around bg-liht mt-1 mb- mx-auto py-" style={{marginBottom:"20vh"}}>
+      <div className="row w-100 justify-content-around bg-liht mt-1 mb- mx-auto py- " style={{marginBottom:"20vh"}}>
         {data
           .filter((a, i) => {
             if (i < 5) return a;
           })
           .map((a, i) => {
             return (
-              <div className="col-lg-2 m-  mx- w-aut" style={{fontFamily:'"Lato",sans-serif'}}>
+              <div className="col-lg-2 m- border-1 border  mx- w-aut" style={{}}>
                 <Link style={{ textDecoration: "none" }}>
                   <div className="card  w-100 border-0 shado">
-                    <div className="card-header text-center bg-white border-0 w-100">
-                      <img className="image-fluid" style={{height:'25vh',width:'70%'}} src={data[i].IMAGE} />
+                    <div className="card-header text-center bg-white border-0 w-100 m-0">
+                      <img className="image-fluid" style={{height:'30vh',width:'95%'}} src={data[i].IMAGE} />
                     </div>
-                    <div className="card-body fs-6 text-center">
-                      <p>{data[i].NAME}</p>
-                      <p>
+                    <div className="card-body fs-5  text-center">
+                      <p className="m-0 fs-5">{data[i].NAME}</p>
+                      <p className="m-0 fw-bold">
                         <i className="bi bi-currency-rupee"></i>
                         {data[i].Price}
                       </p>
                       <button
-                        className="btn btn-success"
+                        className="btn btn-success mt-3"
                         onClick={(e) => {
                           cartAdd(e, a);
                         }}

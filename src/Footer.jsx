@@ -14,7 +14,7 @@ function Footer() {
         <div><span className="fw-bold"><i class="bi bi-envelope-fill"></i></span>  xyz@me</div>
         </div>
         <div className="col-sm-2  text-start">
-          <p className="footer-detail text-start fw-bold">Quick Links</p>
+          <p className="footer-detail text-start">Quick Links</p>
           <ul style={{ listStyle: "none" }} className=" p-0">
             <li>
               <Link style={{ textDecoration: "none", color: "white" }}>
@@ -44,7 +44,7 @@ function Footer() {
           </ul>
         </div>
         <div className="col-sm-4 ">
-          <p className="footer-detail fw-bold text-start">
+          <p className="footer-detail fw text-start">
             Subscribe to News Letters
           </p>
           <p className="text-start" style={{ color: "white" }}>

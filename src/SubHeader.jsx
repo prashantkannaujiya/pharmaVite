@@ -1,8 +1,9 @@
 import { Link, useNavigate } from "react-router-dom"
 import './header.css'
+import { useState } from "react";
 function SubHeader(){
    const navigate=useNavigate();
-  
+  const [msg,setmsg]=useState('')
     return(
 <div className=" " style={{fontSize:'16px',fontFamily:'Lato'}}>
     <nav className="navbar navbar-expand-lg bg-light subh ">
@@ -11,7 +12,7 @@ function SubHeader(){
       <i class="bi bi-list"></i>
   </button>
       <div className="collapse navbar-collapse  " id='subHead'>
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0 mx-auto flex-fill text-light align-items-center justify-content-center">
+      <ul class="navbar-nav me-auto mb-2 mb- fs-5 fw-normal lg-0 mx-auto flex-fill text-light align-items-center justify-content-center">
         <li class="nav-item mx-5 ">
           <Link to={'/'} style={{textDecoration:'none',color:'black'}} >Home</Link>
         </li>

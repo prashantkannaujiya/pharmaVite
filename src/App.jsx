@@ -25,8 +25,9 @@ function App() {
 
 },[])
 useEffect(()=>{
+  // console.log(location.pathname)
   window.scrollTo(0,0)
-},[location])
+},[location.pathname])
   return (
     <>
     <div className='App' >

@@ -15,17 +15,11 @@ u.user ? '' : navigate('/login')
   return (
     <div className="head">
       <div className=" text-light" >
-        <nav className="navbar navbar-expand-md  justify-content-startt" style={{height:'15vh'}}>
-          <div className="container-flui text-light ">
-            <a
-              className="navbar-brand fs-1 text-dark"
-              href=""
-              
-              id="logo"
-            >
-             
-            <span className="fw-bold text-light"> Just Meds</span> 
-            </a>
+        <nav className="navbar navbar-expand-md  justify-content-startt align-items-center" style={{height:'15vh'}}>
+          <div className="container-fluid text-light ">
+         
+            <span className="fw-normal display-5 text-light  ms-4" style={{fontFamily:'"Lato",sans-serif',letterSpacing:'1px'}}> Just Meds</span> 
+          
           </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainHead"  aria-label="Toggle navigation">
       <i class="bi bi-list text-white"></i>
