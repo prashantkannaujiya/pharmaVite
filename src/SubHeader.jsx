@@ -5,14 +5,14 @@ function SubHeader(){
    const navigate=useNavigate();
   const [msg,setmsg]=useState('')
     return(
-<div className=" " style={{fontSize:'16px',fontFamily:'Lato'}}>
-    <nav className="navbar navbar-expand-lg bg-light subh ">
+<div className=" h-25" style={{fontSize:'0px',fontFamily:'Lato'}}>
+    <nav className="navbar navbar-expand-lg bg-light py-0 subh ">
       
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#subHead"  aria-label="Toggle navigation">
       <i class="bi bi-list"></i>
   </button>
       <div className="collapse navbar-collapse  " id='subHead'>
-      <ul class="navbar-nav me-auto mb-2 mb- fs-5 fw-normal lg-0 mx-auto flex-fill text-light align-items-center justify-content-center">
+      <ul class="navbar-nav me-auto mb- mb- fs-5 h-25 py-0 my-0  fw-normal  mx-auto flex-fill text-light align-items-center justify-content-center">
         <li class="nav-item mx-5 ">
           <Link to={'/'} style={{textDecoration:'none',color:'black'}} >Home</Link>
         </li>
